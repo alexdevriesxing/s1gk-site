@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Hjem",
+    "gloves": "Handsker",
+    "matchwear": "Kamptøj",
+    "training": "Træning",
+    "accessories": "Tilbehør",
+    "junior": "Junior",
+    "guides": "Guider",
+    "about": "Om os",
+    "contact": "Kontakt",
+    "shopAll": "Se alt"
+  },
+  "a11y": {
+    "search": "Søg på siden",
+    "account": "Konto",
+    "cart": "Kurv",
+    "openMenu": "Åbn menu",
+    "closeMenu": "Luk menu",
+    "closeSearch": "Luk søgning",
+    "language": "Vælg sprog"
+  },
+  "topbar": {
+    "tagline": "Bygget til målmænd. Skabt til at vinde."
+  },
+  "hero": {
+    "titleA": "Bygget Anderledes",
+    "titleB": "Til Målmænd",
+    "lead": "Premium målmandsudstyr: kamphandsker, træningshandsker, juniorhandsker, kamptøj, polstret træningssæt og tilbehør — designet til at se hurtige ud og føles elite på enhver bane.",
+    "shopGloves": "Køb handsker",
+    "findGlove": "Find din handske",
+    "trustedBy": "Betroet af målmænd",
+    "products": "produkter",
+    "guides": "målmandsguider"
+  },
+  "console": {
+    "title": "Keeper-tilstand",
+    "live": "live",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "graders beskyttelse",
+    "compromises": "kompromiser",
+    "potential": "potentiale"
+  },
+  "modes": {
+    "academy": {
+      "title": "Start her. Stig i niveau.",
+      "text": "Juniorhandsker, træningskomfort og forældrevenlige pakker til unge målmænd.",
+      "cta": "Udforsk Academy"
+    },
+    "match": {
+      "title": "Kampdag. Tag den.",
+      "text": "Kamphandsker, langærmede trøjer og holdklart sæt til ugens fodbold.",
+      "cta": "Udforsk Match"
+    },
+    "elite": {
+      "title": "Ingen undskyldninger. Kun resultater.",
+      "text": "Polstret beskyttelse, kompressionslag og premium tilbehør til intense pas.",
+      "cta": "Udforsk Elite"
+    }
+  },
+  "featured": {
+    "kicker": "Udvalgt udstyr",
+    "titleA": "Start med",
+    "titleB": "redningsmagerne",
+    "copy": "Handsker bygget til greb, beskyttelse og selvtillid. Fuldend sættet med kamptøj, træningsudstyr og tilbehør.",
+    "prev": "Forrige produkter",
+    "next": "Næste produkter"
+  },
+  "values": {
+    "grip": "Greb",
+    "gripText": "Maksimal kontrol fra første berøring til sidste redning.",
+    "protect": "Beskyt",
+    "protectText": "Bygget til udfald, kontakt, kunstgræs og gentagelse.",
+    "perform": "Præster",
+    "performText": "Hurtig, skarp, let og selvsikker på kampdagen.",
+    "focus": "Fokus",
+    "focusText": "Fokusér, luk alt ude og ej dit felt."
+  },
+  "lab": {
+    "kicker": "Interaktivt handskelab",
+    "title": "Vælg din redningsstil.",
+    "copy": "Find den rette pasform til dit niveau. Vælg din målmandsprofil, så matcher vi dig med det perfekte udstyr.",
+    "level": "Målmandsniveau",
+    "levelBeginner": "Begynder / academy",
+    "levelMatch": "Ugentlig kampspiller",
+    "levelElite": "Elitetræning",
+    "age": "Aldersgruppe",
+    "ageJunior": "Junior",
+    "ageAdult": "Teenager / voksen",
+    "use": "Hovedbrug",
+    "useTraining": "Træningspas",
+    "useMatch": "Kampdag",
+    "useTurf": "Kunstgræs / høj gentagelse",
+    "submit": "Vis min handske"
+  },
+  "essentials": {
+    "kicker": "Essentials",
+    "titleA": "Bygget til",
+    "titleB": "hver redning",
+    "copy": "Fuldend din målmandsopsætning med polstret beskyttelse, baselag, strømper, tasker og essentielt tilbehør."
+  },
+  "kit": {
+    "kicker": "Mikrohandel",
+    "title": "Byg dit målmandssæt.",
+    "copy": "Byg dit perfekte målmandssæt. Bland handsker, kamptøj og tilbehør for at skabe en pakke, der passer til dit spil.",
+    "starter": "Starter",
+    "match": "Kampdag",
+    "elite": "Elite",
+    "estimated": "Anslået pakke",
+    "build": "Byg dette sæt"
+  },
+  "levels": {
+    "kicker": "Shop efter niveau",
+    "title": "Academy. Match. Elite.",
+    "copy": "Tre klare niveauer gør sortimentet let at forstå for forældre, hold og seriøse målmænd.",
+    "academyTitle": "Start her. Stig i niveau.",
+    "academyText": "Juniorvenlige handsker og træningsudstyr.",
+    "matchTitle": "Kampdag. Tag den.",
+    "matchText": "Kamphandsker, trøjer og holdklart sæt.",
+    "eliteTitle": "Ingen undskyldninger. Kun resultater.",
+    "eliteText": "Tekniske lag, polstring og premium tilbehør."
+  },
+  "club": {
+    "kicker": "Fællesskabsmotor",
+    "titleA": "Bliv medlem af",
+    "titleB": "Keepers Club",
+    "copy": "Mere end udstyr. En bevægelse for unge målmænd, der træner anderledes, kaster sig hårdere og vil være spilleren, alle stoler på, når kampen bliver kaotisk.",
+    "perk1": "Eksklusive drops",
+    "perk2": "Træningstips",
+    "perk3": "Medlemsrabatter",
+    "perk4": "Tidlig adgang",
+    "join": "Bliv medlem gratis"
+  },
+  "search": {
+    "label": "Søg S1GK",
+    "placeholder": "Prøv kamphandsker, junior, polstrede bukser…",
+    "noResults": "Ingen målmandsudstyr fundet endnu. Prøv handsker, junior, bukser eller kamp."
+  },
+  "common": {
+    "from": "Fra",
+    "addToKit": "Tilføj til sæt",
+    "shopGloves": "Køb handsker",
+    "findMyGlove": "Find min handske",
+    "readyCta": "Klar til at eje dit felt?",
+    "size": "Størrelse",
+    "selectSize": "Vælg størrelse",
+    "ownTheBox": "Ej dit felt."
+  },
+  "cart": {
+    "emptyTitle": "Din kurv er tom",
+    "emptySub": "Byg din perfekte målmandsopsætning ved at tilføje handsker, kamptøj og træningstilbehør.",
+    "browseAll": "Gennemse alt udstyr",
+    "yourSelection": "Dit udvalg",
+    "summary": "Oversigt",
+    "subtotal": "Subtotal",
+    "shipping": "Levering",
+    "total": "Total",
+    "checkout": "Gå til kassen",
+    "freeDelivery": "Gratis levering ved ordrer over {amount}. Nem returnering inden for 30 dage.",
+    "remove": "Fjern vare",
+    "added": "tilføjet til sæt",
+    "loading": "Indlæser dit udvalg..."
+  },
+  "checkout": {
+    "title": "Sikker betaling",
+    "intro": "Indtast dine leveringsoplysninger nedenfor. Der kræves ikke kort til denne demoordre.",
+    "firstName": "Fornavn",
+    "lastName": "Efternavn",
+    "email": "E-mailadresse",
+    "address": "Leveringsadresse",
+    "city": "By",
+    "zip": "Postnummer",
+    "complete": "Gennemfør ordre",
+    "placedTitle": "Ordre afgivet!",
+    "placedText": "Tak for din ordre. Dit målmandsudstyr er sikret.",
+    "close": "Luk",
+    "redirecting": "Omdirigerer til sikker betaling…"
+  },
+  "footer": {
+    "stayLockedIn": "Hold dig opdateret",
+    "shop": "Butik",
+    "learn": "Lær",
+    "brand": "Brand",
+    "newsletterCopy": "Tilmeld dig for drops, målmandstips og produktnyheder.",
+    "emailPlaceholder": "Indtast din e-mail",
+    "signUp": "Tilmeld",
+    "tagline": "Bygget anderledes. Skabt til målmænd. Skabt til at vinde.",
+    "rights": "© 2026 S1GK. Alle rettigheder forbeholdes.",
+    "privacy": "Privatliv",
+    "terms": "Vilkår",
+    "sitemap": "Sitemap"
+  },
+  "toast": {
+    "subscribed": "Tilmeldt",
+    "submitted": "Anmodning sendt",
+    "unlocked": "låst op",
+    "loaded": "indlæst"
+  },
+  "meta": {
+    "homeTitle": "S1GK Målmandshandsker, Kamptøj & Keeper-Udstyr | Own The Box",
+    "homeDesc": "Premium målmandsudstyr: kamp-, trænings- og juniorhandsker, kamptøj, polstret sæt og tilbehør."
+  }
+}

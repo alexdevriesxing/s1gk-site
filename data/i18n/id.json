@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "gloves": "Sarung Tangan",
+    "matchwear": "Pakaian Pertandingan",
+    "training": "Latihan",
+    "accessories": "Aksesori",
+    "junior": "Junior",
+    "guides": "Panduan",
+    "about": "Tentang",
+    "contact": "Kontak",
+    "shopAll": "Lihat Semua"
+  },
+  "a11y": {
+    "search": "Cari di situs",
+    "account": "Akun",
+    "cart": "Keranjang",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu",
+    "closeSearch": "Tutup pencarian",
+    "language": "Pilih bahasa"
+  },
+  "topbar": {
+    "tagline": "Dibuat untuk kiper. Diciptakan untuk menang."
+  },
+  "hero": {
+    "titleA": "Dibuat Berbeda",
+    "titleB": "Untuk Kiper",
+    "lead": "Perlengkapan kiper premium: sarung tangan pertandingan, sarung tangan latihan, sarung tangan junior, pakaian pertandingan, set latihan berlapis dan aksesori — dirancang agar terlihat cepat dan terasa elite di setiap lapangan.",
+    "shopGloves": "Beli sarung tangan",
+    "findGlove": "Temukan sarung tanganmu",
+    "trustedBy": "Dipercaya para kiper",
+    "products": "produk",
+    "guides": "panduan kiper"
+  },
+  "console": {
+    "title": "Mode Kiper",
+    "live": "langsung",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "derajat perlindungan",
+    "compromises": "kompromi",
+    "potential": "potensi"
+  },
+  "modes": {
+    "academy": {
+      "title": "Mulai di sini. Naik level.",
+      "text": "Sarung tangan junior, kenyamanan latihan dan paket ramah orang tua untuk kiper muda.",
+      "cta": "Jelajahi Academy"
+    },
+    "match": {
+      "title": "Hari pertandingan. Kuasai.",
+      "text": "Sarung tangan pertandingan, jersey lengan panjang dan set siap tim untuk sepak bola mingguan.",
+      "cta": "Jelajahi Match"
+    },
+    "elite": {
+      "title": "Tanpa alasan. Hanya hasil.",
+      "text": "Perlindungan berlapis, lapisan kompresi dan aksesori premium untuk sesi intensitas tinggi.",
+      "cta": "Jelajahi Elite"
+    }
+  },
+  "featured": {
+    "kicker": "Perlengkapan unggulan",
+    "titleA": "Mulai dengan",
+    "titleB": "pembuat penyelamatan",
+    "copy": "Sarung tangan dibuat untuk cengkeraman, perlindungan dan kepercayaan diri. Lengkapi set dengan pakaian pertandingan, perlengkapan latihan dan aksesori.",
+    "prev": "Produk sebelumnya",
+    "next": "Produk berikutnya"
+  },
+  "values": {
+    "grip": "Cengkeraman",
+    "gripText": "Kontrol maksimal dari sentuhan pertama hingga penyelamatan terakhir.",
+    "protect": "Lindungi",
+    "protectText": "Dibuat untuk terjangan, kontak, rumput sintetis dan repetisi.",
+    "perform": "Tampil",
+    "performText": "Cepat, tajam, ringan dan percaya diri di hari pertandingan.",
+    "focus": "Fokus",
+    "focusText": "Fokus, abaikan gangguan dan kuasai kotak penaltimu."
+  },
+  "lab": {
+    "kicker": "Lab sarung tangan interaktif",
+    "title": "Pilih gaya penyelamatanmu.",
+    "copy": "Temukan kecocokan yang tepat untuk levelmu. Pilih profil kipermu dan kami akan mencocokkanmu dengan perlengkapan sempurna.",
+    "level": "Level kiper",
+    "levelBeginner": "Pemula / academy",
+    "levelMatch": "Pemain pertandingan mingguan",
+    "levelElite": "Latihan elite",
+    "age": "Kelompok usia",
+    "ageJunior": "Junior",
+    "ageAdult": "Remaja / dewasa",
+    "use": "Penggunaan utama",
+    "useTraining": "Sesi latihan",
+    "useMatch": "Hari pertandingan",
+    "useTurf": "Rumput sintetis / repetisi tinggi",
+    "submit": "Tampilkan sarung tanganku"
+  },
+  "essentials": {
+    "kicker": "Esensial",
+    "titleA": "Dibuat untuk",
+    "titleB": "setiap penyelamatan",
+    "copy": "Lengkapi perlengkapan kipermu dengan perlindungan berlapis, base layer, kaus kaki, tas dan aksesori penting."
+  },
+  "kit": {
+    "kicker": "Mikro-perdagangan",
+    "title": "Bangun kit kipermu.",
+    "copy": "Bangun kit kiper sempurnamu. Padukan sarung tangan, pakaian pertandingan dan aksesori untuk membuat paket yang sesuai dengan permainanmu.",
+    "starter": "Pemula",
+    "match": "Hari pertandingan",
+    "elite": "Elite",
+    "estimated": "Perkiraan paket",
+    "build": "Bangun kit ini"
+  },
+  "levels": {
+    "kicker": "Belanja per level",
+    "title": "Academy. Match. Elite.",
+    "copy": "Tiga level yang jelas membuat rangkaian mudah dipahami oleh orang tua, tim dan kiper serius.",
+    "academyTitle": "Mulai di sini. Naik level.",
+    "academyText": "Sarung tangan dan perlengkapan latihan ramah junior.",
+    "matchTitle": "Hari pertandingan. Kuasai.",
+    "matchText": "Sarung tangan pertandingan, jersey dan set siap tim.",
+    "eliteTitle": "Tanpa alasan. Hanya hasil.",
+    "eliteText": "Lapisan teknis, pelindung dan aksesori premium."
+  },
+  "club": {
+    "kicker": "Mesin komunitas",
+    "titleA": "Gabung",
+    "titleB": "Keepers Club",
+    "copy": "Lebih dari sekadar perlengkapan. Gerakan untuk kiper muda yang berlatih berbeda, menerjang lebih keras dan ingin menjadi pemain yang dipercaya semua orang saat pertandingan menjadi kacau.",
+    "perk1": "Drop eksklusif",
+    "perk2": "Tips latihan",
+    "perk3": "Diskon anggota",
+    "perk4": "Akses awal",
+    "join": "Gabung gratis"
+  },
+  "search": {
+    "label": "Cari S1GK",
+    "placeholder": "Coba sarung tangan pertandingan, junior, celana berlapis…",
+    "noResults": "Belum ada perlengkapan kiper ditemukan. Coba sarung tangan, junior, celana atau pertandingan."
+  },
+  "common": {
+    "from": "Mulai dari",
+    "addToKit": "Tambah ke kit",
+    "shopGloves": "Beli sarung tangan",
+    "findMyGlove": "Temukan sarung tanganku",
+    "readyCta": "Siap menguasai kotak penaltimu?",
+    "size": "Ukuran",
+    "selectSize": "Pilih ukuran",
+    "ownTheBox": "Kuasai kotak penaltimu."
+  },
+  "cart": {
+    "emptyTitle": "Keranjangmu kosong",
+    "emptySub": "Bangun perlengkapan kiper sempurnamu dengan menambahkan sarung tangan, pakaian pertandingan dan aksesori latihan.",
+    "browseAll": "Jelajahi semua perlengkapan",
+    "yourSelection": "Pilihanmu",
+    "summary": "Ringkasan",
+    "subtotal": "Subtotal",
+    "shipping": "Pengiriman",
+    "total": "Total",
+    "checkout": "Lanjut ke pembayaran",
+    "freeDelivery": "Pengiriman gratis untuk pesanan di atas {amount}. Pengembalian mudah dalam 30 hari.",
+    "remove": "Hapus item",
+    "added": "ditambahkan ke kit",
+    "loading": "Memuat pilihanmu..."
+  },
+  "checkout": {
+    "title": "Pembayaran aman",
+    "intro": "Masukkan detail pengirimanmu di bawah. Tidak perlu kartu untuk pesanan demo ini.",
+    "firstName": "Nama depan",
+    "lastName": "Nama belakang",
+    "email": "Alamat email",
+    "address": "Alamat pengiriman",
+    "city": "Kota",
+    "zip": "Kode pos",
+    "complete": "Selesaikan pesanan",
+    "placedTitle": "Pesanan dibuat!",
+    "placedText": "Terima kasih atas pesananmu. Perlengkapan kipermu sudah diamankan.",
+    "close": "Tutup",
+    "redirecting": "Mengalihkan ke pembayaran aman…"
+  },
+  "footer": {
+    "stayLockedIn": "Tetap terhubung",
+    "shop": "Toko",
+    "learn": "Pelajari",
+    "brand": "Merek",
+    "newsletterCopy": "Daftar untuk drop, tips kiper dan pembaruan produk.",
+    "emailPlaceholder": "Masukkan emailmu",
+    "signUp": "Daftar",
+    "tagline": "Dibuat berbeda. Dibuat untuk kiper. Diciptakan untuk menang.",
+    "rights": "© 2026 S1GK. Hak cipta dilindungi.",
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "sitemap": "Peta situs"
+  },
+  "toast": {
+    "subscribed": "Berlangganan",
+    "submitted": "Permintaan berhasil dikirim",
+    "unlocked": "terbuka",
+    "loaded": "dimuat"
+  },
+  "meta": {
+    "homeTitle": "S1GK Sarung Tangan Kiper, Pakaian & Perlengkapan | Own The Box",
+    "homeDesc": "Perlengkapan kiper premium: sarung tangan pertandingan, latihan dan junior, pakaian, set berlapis dan aksesori."
+  }
+}

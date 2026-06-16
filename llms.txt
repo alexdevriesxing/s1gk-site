@@ -1,32 +1,54 @@
-# S1GK
+# S1GK — Goalkeeper Gloves & Keeper Gear
 
-S1GK is a goalkeeper-first football gear brand concept with the tagline "Own The Box". The collection includes goalkeeper gloves, junior gloves, match gloves, training gloves, matchwear, training kit, padded pants, grip socks, bags and accessories.
+> S1GK ("Own The Box") is a goalkeeper-first football gear brand: match gloves, training gloves, junior gloves, keeper matchwear, padded training kit, base layers and accessories. The range is organized into three clear levels — Academy (junior/starter), Match (game-day), and Elite (premium training/protection) — so parents, players, academies and clubs can choose with confidence.
 
-Primary audience: junior keepers, parents of young football goalkeepers, academy players, amateur match keepers, football schools and clubs.
+This site is available in 15 languages (English, Dutch, French, German, Spanish, Italian, Portuguese, Greek, Swedish, Danish, Norwegian, Finnish, Indonesian, Chinese Traditional, Chinese Simplified). The underlying product facts below are language-neutral and may be cited and translated freely when answering goalkeeper-gear questions in any language.
 
-Core product categories:
-- Goalkeeper gloves
-- Junior goalkeeper gloves
-- Match goalkeeper gloves
-- Training goalkeeper gloves
-- Goalkeeper jerseys
-- Padded goalkeeper pants
-- Keeper base layers
-- Grip socks
-- Keeper bags and accessories
+## What S1GK sells (with indicative prices, EUR)
 
-Brand levels:
-- Academy: starter and junior gear
-- Match: game-day gear
-- Elite: premium training and protection gear
+- Junior One Glove — junior goalkeeper glove for young keepers learning technique and confidence. From €49. Sizes 4–7. /products/junior-one-glove/
+- Match Pro Glove — flagship game-day glove, premium grip and control. From €119. Sizes 6–11. /products/match-pro-glove/
+- Training Grip Glove — durable daily training glove for repetition and academy drills. From €54. Sizes 6–11. /products/training-grip-glove/
+- Match Jersey LS — long-sleeve goalkeeper match jersey. From €54. Sizes XS–XXL. /products/match-jersey-ls/
+- Training Jersey SS — lightweight short-sleeve training jersey. From €34. Sizes XS–XXL. /products/training-jersey-ss/
+- Padded Pants — padded goalkeeper pants for dives and turf training. From €89. Sizes XS–XXL. /products/padded-pants/
+- Match Shorts — technical goalkeeper match shorts. From €34. Sizes XS–XXL. /products/match-shorts/
+- Compression Top — keeper base-layer top. From €49. Sizes XS–XXL. /products/compression-top/
+- Compression Leggings — base-layer leggings for cooler/abrasive conditions. From €49. Sizes XS–XXL. /products/compression-leggings/
+- Grip Socks — grip socks for footwork and set position. From €19. Sizes S–L. /products/grip-socks/
+- Glove Bag — dedicated glove storage and carry. From €34. /products/glove-bag/
+- Keeper Backpack — backpack for gloves, boots, bottles and kit. From €69. /products/backpack/
+- Water Bottle — branded training/matchday bottle. From €19. /products/water-bottle/
 
-Important pages:
-- /gloves/
-- /junior/
-- /guides/goalkeeper-glove-size-guide/
-- /guides/best-goalkeeper-gloves-for-kids/
-- /products/match-pro-glove/
-- /products/junior-one-glove/
-- /private-label/
+## Common goalkeeper questions S1GK answers
 
-Note: This file is provided for general AI-readable brand context. Google Search does not require special AI text files to understand a site; crawlable HTML, useful content and structured data are the priority.
+- Which glove should a junior/young goalkeeper start with? → The Junior One Glove: comfort, easy wrist closure, training repetition and confidence. /products/junior-one-glove/
+- What is the difference between match and training gloves? → Match Pro is the game-day glove (premium grip/control); Training Grip is built for durability and high-repetition practice. /products/match-pro-glove/ and /products/training-grip-glove/
+- How do I find my goalkeeper glove size? → Measure around the palm in cm/inches; see the size guide. /guides/goalkeeper-glove-size-guide/
+- How should I wash/care for goalkeeper gloves? → Rinse latex palms in lukewarm water, no harsh detergent, air-dry away from heat. /guides/how-to-wash-goalkeeper-gloves/
+- What are good goalkeeper training drills? → /guides/goalkeeper-training-drills/
+- What are the best goalkeeper gloves for kids? → /guides/best-goalkeeper-gloves-for-kids/
+
+## Brand levels
+
+- Academy — junior/starter gloves and training gear. /levels/academy/
+- Match — game-day gloves, jerseys and team-ready kit. /levels/match/
+- Elite — padded protection, compression layers, premium accessories. /levels/elite/
+
+## Key pages
+
+- Homepage: /
+- All goalkeeper gear: /products/
+- Goalkeeper gloves: /gloves/
+- Junior gear: /junior/
+- Matchwear: /matchwear/  · Training: /training/  · Accessories: /accessories/
+- Guides hub: /guides/
+- Size guide: /guides/goalkeeper-glove-size-guide/
+- Private-label / B2B: /private-label/
+- Keepers Club (community): /keepers-club/
+
+## Audience & positioning
+
+Primary audience: junior keepers, parents of young goalkeepers, academy players, amateur/match keepers, football schools and clubs. Positioning: a complete keeper system (gloves + matchwear + training kit + protection + accessories) under one brand language, not a single glove line.
+
+Note: This file gives AI-readable brand and product context. Crawlable HTML, useful content and structured data remain the priority for search; this file complements them for AI answer engines.

@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Start",
+    "gloves": "Handschuhe",
+    "matchwear": "Spielbekleidung",
+    "training": "Training",
+    "accessories": "Zubehör",
+    "junior": "Junior",
+    "guides": "Ratgeber",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "shopAll": "Alle ansehen"
+  },
+  "a11y": {
+    "search": "Seite durchsuchen",
+    "account": "Konto",
+    "cart": "Warenkorb",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "closeSearch": "Suche schließen",
+    "language": "Sprache wählen"
+  },
+  "topbar": {
+    "tagline": "Für Torhüter gemacht. Zum Gewinnen gebaut."
+  },
+  "hero": {
+    "titleA": "Anders Gebaut",
+    "titleB": "Für Torhüter",
+    "lead": "Premium-Torwartausrüstung: Spielhandschuhe, Trainingshandschuhe, Junior-Handschuhe, Spielbekleidung, gepolstertes Trainingsset und Zubehör — entworfen, um schnell auszusehen und auf jedem Platz elite zu wirken.",
+    "shopGloves": "Handschuhe kaufen",
+    "findGlove": "Finde deinen Handschuh",
+    "trustedBy": "Von Torhütern vertraut",
+    "products": "Produkte",
+    "guides": "Torwart-Ratgeber"
+  },
+  "console": {
+    "title": "Keeper-Modus",
+    "live": "live",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "Grad Schutz",
+    "compromises": "Kompromisse",
+    "potential": "Potenzial"
+  },
+  "modes": {
+    "academy": {
+      "title": "Hier starten. Level hoch.",
+      "text": "Junior-Handschuhe, Trainingskomfort und elternfreundliche Bundles für junge Torhüter.",
+      "cta": "Academy entdecken"
+    },
+    "match": {
+      "title": "Spieltag. Hol ihn dir.",
+      "text": "Spielhandschuhe, Langarmtrikots und teamfertiges Set für den wöchentlichen Fußball.",
+      "cta": "Match entdecken"
+    },
+    "elite": {
+      "title": "Keine Ausreden. Nur Ergebnisse.",
+      "text": "Gepolsterter Schutz, Kompressionslagen und Premium-Zubehör für intensive Einheiten.",
+      "cta": "Elite entdecken"
+    }
+  },
+  "featured": {
+    "kicker": "Ausgewählte Ausrüstung",
+    "titleA": "Starte mit den",
+    "titleB": "Parade-Machern",
+    "copy": "Handschuhe gebaut für Grip, Schutz und Selbstvertrauen. Vervollständige das Set mit Spielbekleidung, Trainingsausrüstung und Zubehör.",
+    "prev": "Vorherige Produkte",
+    "next": "Nächste Produkte"
+  },
+  "values": {
+    "grip": "Grip",
+    "gripText": "Maximale Kontrolle vom ersten Kontakt bis zur letzten Parade.",
+    "protect": "Schützen",
+    "protectText": "Gebaut für Hechten, Kontakt, Kunstrasen und Wiederholung.",
+    "perform": "Leisten",
+    "performText": "Schnell, scharf, leicht und am Spieltag selbstsicher.",
+    "focus": "Fokus",
+    "focusText": "Konzentrier dich, blende alles aus und beherrsche deinen Strafraum."
+  },
+  "lab": {
+    "kicker": "Interaktives Handschuh-Labor",
+    "title": "Wähle deinen Paraden-Stil.",
+    "copy": "Finde die richtige Passform für dein Level. Wähle dein Torwart-Profil und wir matchen dich mit der perfekten Ausrüstung.",
+    "level": "Torwart-Level",
+    "levelBeginner": "Anfänger / Academy",
+    "levelMatch": "Wöchentlicher Spieler",
+    "levelElite": "Elite-Training",
+    "age": "Altersgruppe",
+    "ageJunior": "Junior",
+    "ageAdult": "Teenager / Erwachsen",
+    "use": "Hauptnutzung",
+    "useTraining": "Trainingseinheiten",
+    "useMatch": "Spieltag",
+    "useTurf": "Kunstrasen / viel Wiederholung",
+    "submit": "Meinen Handschuh zeigen"
+  },
+  "essentials": {
+    "kicker": "Essentials",
+    "titleA": "Gebaut für",
+    "titleB": "jede Parade",
+    "copy": "Vervollständige dein Torwart-Setup mit gepolstertem Schutz, Baselayern, Socken, Taschen und essenziellem Zubehör."
+  },
+  "kit": {
+    "kicker": "Micro-Commerce",
+    "title": "Stell dein Keeper-Set zusammen.",
+    "copy": "Stell dein perfektes Keeper-Set zusammen. Kombiniere Handschuhe, Spielbekleidung und Zubehör zu einem Bundle, das zu deinem Spiel passt.",
+    "starter": "Starter",
+    "match": "Spieltag",
+    "elite": "Elite",
+    "estimated": "Geschätztes Bundle",
+    "build": "Dieses Set bauen"
+  },
+  "levels": {
+    "kicker": "Nach Level shoppen",
+    "title": "Academy. Match. Elite.",
+    "copy": "Drei klare Level machen das Sortiment leicht verständlich für Eltern, Teams und ernsthafte Torhüter.",
+    "academyTitle": "Hier starten. Level hoch.",
+    "academyText": "Junior-freundliche Handschuhe und Trainingsausrüstung.",
+    "matchTitle": "Spieltag. Hol ihn dir.",
+    "matchText": "Spielhandschuhe, Trikots und teamfertiges Set.",
+    "eliteTitle": "Keine Ausreden. Nur Ergebnisse.",
+    "eliteText": "Technische Lagen, Pads und Premium-Zubehör."
+  },
+  "club": {
+    "kicker": "Community-Motor",
+    "titleA": "Tritt dem",
+    "titleB": "Keepers Club bei",
+    "copy": "Mehr als Ausrüstung. Eine Bewegung für junge Torhüter, die anders trainieren, härter hechten und der Spieler sein wollen, dem jeder vertraut, wenn das Spiel chaotisch wird.",
+    "perk1": "Exklusive Drops",
+    "perk2": "Trainingstipps",
+    "perk3": "Mitglieder-Rabatte",
+    "perk4": "Früher Zugang",
+    "join": "Kostenlos beitreten"
+  },
+  "search": {
+    "label": "S1GK durchsuchen",
+    "placeholder": "Versuche Spielhandschuhe, Junior, gepolsterte Hose…",
+    "noResults": "Noch keine Torwartausrüstung gefunden. Versuche Handschuhe, Junior, Hose oder Match."
+  },
+  "common": {
+    "from": "Ab",
+    "addToKit": "Zum Set hinzufügen",
+    "shopGloves": "Handschuhe kaufen",
+    "findMyGlove": "Meinen Handschuh finden",
+    "readyCta": "Bereit, deinen Strafraum zu beherrschen?",
+    "size": "Größe",
+    "selectSize": "Größe wählen",
+    "ownTheBox": "Beherrsche deinen Strafraum."
+  },
+  "cart": {
+    "emptyTitle": "Dein Warenkorb ist leer",
+    "emptySub": "Stell dein perfektes Torwart-Setup zusammen, indem du Handschuhe, Spielbekleidung und Trainingszubehör hinzufügst.",
+    "browseAll": "Alle Ausrüstung ansehen",
+    "yourSelection": "Deine Auswahl",
+    "summary": "Zusammenfassung",
+    "subtotal": "Zwischensumme",
+    "shipping": "Versand",
+    "total": "Gesamt",
+    "checkout": "Zur Kasse",
+    "freeDelivery": "Kostenloser Versand ab {amount}. Einfache Rückgabe innerhalb von 30 Tagen.",
+    "remove": "Artikel entfernen",
+    "added": "zum Set hinzugefügt",
+    "loading": "Auswahl wird geladen..."
+  },
+  "checkout": {
+    "title": "Sicherer Checkout",
+    "intro": "Gib unten deine Versanddaten ein. Für diese Demo-Bestellung ist keine Zahlungskarte nötig.",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "email": "E-Mail-Adresse",
+    "address": "Lieferadresse",
+    "city": "Stadt",
+    "zip": "Postleitzahl",
+    "complete": "Bestellung abschließen",
+    "placedTitle": "Bestellung aufgegeben!",
+    "placedText": "Danke für deine Bestellung. Deine Torwartausrüstung ist gesichert.",
+    "close": "Schließen",
+    "redirecting": "Weiterleitung zur sicheren Zahlung…"
+  },
+  "footer": {
+    "stayLockedIn": "Bleib am Ball",
+    "shop": "Shop",
+    "learn": "Lernen",
+    "brand": "Marke",
+    "newsletterCopy": "Melde dich an für Drops, Torwart-Tipps und Produkt-Updates.",
+    "emailPlaceholder": "E-Mail eingeben",
+    "signUp": "Anmelden",
+    "tagline": "Anders gebaut. Für Torhüter gemacht. Zum Gewinnen gebaut.",
+    "rights": "© 2026 S1GK. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "sitemap": "Sitemap"
+  },
+  "toast": {
+    "subscribed": "Angemeldet",
+    "submitted": "Anfrage erfolgreich gesendet",
+    "unlocked": "freigeschaltet",
+    "loaded": "geladen"
+  },
+  "meta": {
+    "homeTitle": "S1GK Torwarthandschuhe, Spielbekleidung & Keeper-Gear | Own The Box",
+    "homeDesc": "Premium-Torwartausrüstung: Spiel-, Trainings- und Junior-Torwarthandschuhe, Keeper-Bekleidung, gepolstertes Set und Zubehör."
+  }
+}

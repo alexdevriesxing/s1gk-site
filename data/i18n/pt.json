@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Início",
+    "gloves": "Luvas",
+    "matchwear": "Roupa de jogo",
+    "training": "Treino",
+    "accessories": "Acessórios",
+    "junior": "Júnior",
+    "guides": "Guias",
+    "about": "Sobre",
+    "contact": "Contato",
+    "shopAll": "Ver tudo"
+  },
+  "a11y": {
+    "search": "Pesquisar no site",
+    "account": "Conta",
+    "cart": "Carrinho",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu",
+    "closeSearch": "Fechar pesquisa",
+    "language": "Escolher idioma"
+  },
+  "topbar": {
+    "tagline": "Feito para guarda-redes. Construído para vencer."
+  },
+  "hero": {
+    "titleA": "Construído Diferente",
+    "titleB": "Para Guarda-Redes",
+    "lead": "Equipamento premium de guarda-redes: luvas de jogo, luvas de treino, luvas júnior, roupa de jogo, kit de treino acolchoado e acessórios — concebidos para parecer rápidos e sentir-se elite em qualquer campo.",
+    "shopGloves": "Comprar luvas",
+    "findGlove": "Encontre a sua luva",
+    "trustedBy": "Confiado por guarda-redes",
+    "products": "produtos",
+    "guides": "guias de guarda-redes"
+  },
+  "console": {
+    "title": "Modo Guarda-Redes",
+    "live": "ao vivo",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "graus de proteção",
+    "compromises": "compromissos",
+    "potential": "potencial"
+  },
+  "modes": {
+    "academy": {
+      "title": "Comece aqui. Suba de nível.",
+      "text": "Luvas júnior, conforto de treino e pacotes amigos dos pais para jovens guarda-redes.",
+      "cta": "Explorar Academy"
+    },
+    "match": {
+      "title": "Dia de jogo. Domine.",
+      "text": "Luvas de jogo, camisolas de manga comprida e kit pronto para a equipa no futebol semanal.",
+      "cta": "Explorar Match"
+    },
+    "elite": {
+      "title": "Sem desculpas. Só resultados.",
+      "text": "Proteção acolchoada, camadas de compressão e acessórios premium para sessões de alta intensidade.",
+      "cta": "Explorar Elite"
+    }
+  },
+  "featured": {
+    "kicker": "Equipamento em destaque",
+    "titleA": "Comece com os",
+    "titleB": "criadores de defesas",
+    "copy": "Luvas feitas para aderência, proteção e confiança. Complete o kit com roupa de jogo, equipamento de treino e acessórios.",
+    "prev": "Produtos anteriores",
+    "next": "Produtos seguintes"
+  },
+  "values": {
+    "grip": "Aderência",
+    "gripText": "Máximo controlo do primeiro toque à última defesa.",
+    "protect": "Proteger",
+    "protectText": "Feito para mergulhos, contacto, relva sintética e repetição.",
+    "perform": "Performar",
+    "performText": "Rápido, preciso, leve e confiante no dia de jogo.",
+    "focus": "Foco",
+    "focusText": "Concentre-se, isole tudo e domine a sua área."
+  },
+  "lab": {
+    "kicker": "Laboratório de luvas interativo",
+    "title": "Escolha o seu estilo de defesa.",
+    "copy": "Encontre o ajuste certo para o seu nível. Escolha o seu perfil de guarda-redes e combinamo-lo com o equipamento perfeito.",
+    "level": "Nível de guarda-redes",
+    "levelBeginner": "Iniciante / academy",
+    "levelMatch": "Jogador de jogo semanal",
+    "levelElite": "Treino elite",
+    "age": "Faixa etária",
+    "ageJunior": "Júnior",
+    "ageAdult": "Adolescente / adulto",
+    "use": "Uso principal",
+    "useTraining": "Sessões de treino",
+    "useMatch": "Dia de jogo",
+    "useTurf": "Relva sintética / alta repetição",
+    "submit": "Revelar a minha luva"
+  },
+  "essentials": {
+    "kicker": "Essenciais",
+    "titleA": "Feito para",
+    "titleB": "cada defesa",
+    "copy": "Complete o seu setup de guarda-redes com proteção acolchoada, camadas base, meias, sacos e acessórios essenciais."
+  },
+  "kit": {
+    "kicker": "Microcomércio",
+    "title": "Monte o seu kit de guarda-redes.",
+    "copy": "Monte o seu kit de guarda-redes perfeito. Combine luvas, roupa de jogo e acessórios para criar um pacote que se ajuste ao seu jogo.",
+    "starter": "Inicial",
+    "match": "Dia de jogo",
+    "elite": "Elite",
+    "estimated": "Pacote estimado",
+    "build": "Montar este kit"
+  },
+  "levels": {
+    "kicker": "Comprar por nível",
+    "title": "Academy. Match. Elite.",
+    "copy": "Três níveis claros tornam a gama fácil de entender para pais, equipas e guarda-redes sérios.",
+    "academyTitle": "Comece aqui. Suba de nível.",
+    "academyText": "Luvas e equipamento de treino amigos dos júniores.",
+    "matchTitle": "Dia de jogo. Domine.",
+    "matchText": "Luvas de jogo, camisolas e kit pronto para a equipa.",
+    "eliteTitle": "Sem desculpas. Só resultados.",
+    "eliteText": "Camadas técnicas, proteções e acessórios premium."
+  },
+  "club": {
+    "kicker": "Motor de comunidade",
+    "titleA": "Junte-se ao",
+    "titleB": "Keepers Club",
+    "copy": "Mais do que equipamento. Um movimento para jovens guarda-redes que treinam diferente, mergulham mais forte e querem ser o jogador em quem todos confiam quando o jogo fica caótico.",
+    "perk1": "Drops exclusivos",
+    "perk2": "Dicas de treino",
+    "perk3": "Descontos para membros",
+    "perk4": "Acesso antecipado",
+    "join": "Aderir grátis"
+  },
+  "search": {
+    "label": "Pesquisar S1GK",
+    "placeholder": "Tente luvas de jogo, júnior, calças acolchoadas…",
+    "noResults": "Ainda não foi encontrado equipamento de guarda-redes. Tente luvas, júnior, calças ou jogo."
+  },
+  "common": {
+    "from": "A partir de",
+    "addToKit": "Adicionar ao kit",
+    "shopGloves": "Comprar luvas",
+    "findMyGlove": "Encontrar a minha luva",
+    "readyCta": "Pronto para dominar a sua área?",
+    "size": "Tamanho",
+    "selectSize": "Escolher tamanho",
+    "ownTheBox": "Domine a sua área."
+  },
+  "cart": {
+    "emptyTitle": "O seu carrinho está vazio",
+    "emptySub": "Monte o seu setup de guarda-redes perfeito adicionando luvas, roupa de jogo e acessórios de treino.",
+    "browseAll": "Ver todo o equipamento",
+    "yourSelection": "A sua seleção",
+    "summary": "Resumo",
+    "subtotal": "Subtotal",
+    "shipping": "Envio",
+    "total": "Total",
+    "checkout": "Finalizar compra",
+    "freeDelivery": "Envio grátis em encomendas acima de {amount}. Devoluções fáceis em 30 dias.",
+    "remove": "Remover artigo",
+    "added": "adicionado ao kit",
+    "loading": "A carregar a sua seleção..."
+  },
+  "checkout": {
+    "title": "Pagamento seguro",
+    "intro": "Introduza os seus dados de envio abaixo. Não é necessário cartão para esta encomenda de demonstração.",
+    "firstName": "Nome",
+    "lastName": "Apelido",
+    "email": "Endereço de email",
+    "address": "Morada de envio",
+    "city": "Cidade",
+    "zip": "Código postal",
+    "complete": "Concluir encomenda",
+    "placedTitle": "Encomenda efetuada!",
+    "placedText": "Obrigado pela sua encomenda. O seu equipamento de guarda-redes está garantido.",
+    "close": "Fechar",
+    "redirecting": "A redirecionar para o pagamento seguro…"
+  },
+  "footer": {
+    "stayLockedIn": "Fique a par",
+    "shop": "Loja",
+    "learn": "Aprender",
+    "brand": "Marca",
+    "newsletterCopy": "Inscreva-se para drops, dicas de guarda-redes e novidades.",
+    "emailPlaceholder": "Introduza o seu email",
+    "signUp": "Inscrever-se",
+    "tagline": "Construído diferente. Feito para guarda-redes. Construído para vencer.",
+    "rights": "© 2026 S1GK. Todos os direitos reservados.",
+    "privacy": "Privacidade",
+    "terms": "Termos",
+    "sitemap": "Mapa do site"
+  },
+  "toast": {
+    "subscribed": "Inscrito",
+    "submitted": "Pedido enviado com sucesso",
+    "unlocked": "desbloqueado",
+    "loaded": "carregado"
+  },
+  "meta": {
+    "homeTitle": "S1GK Luvas de Guarda-Redes, Roupa & Equipamento | Own The Box",
+    "homeDesc": "Equipamento premium de guarda-redes: luvas de jogo, treino e júnior, roupa, kit acolchoado e acessórios."
+  }
+}

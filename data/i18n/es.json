@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "gloves": "Guantes",
+    "matchwear": "Ropa de partido",
+    "training": "Entrenamiento",
+    "accessories": "Accesorios",
+    "junior": "Junior",
+    "guides": "Guías",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "shopAll": "Ver todo"
+  },
+  "a11y": {
+    "search": "Buscar en el sitio",
+    "account": "Cuenta",
+    "cart": "Carrito",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "closeSearch": "Cerrar búsqueda",
+    "language": "Elegir idioma"
+  },
+  "topbar": {
+    "tagline": "Hecho para porteros. Construido para ganar."
+  },
+  "hero": {
+    "titleA": "Construido Diferente",
+    "titleB": "Para Porteros",
+    "lead": "Equipamiento premium de portero: guantes de partido, guantes de entrenamiento, guantes junior, ropa de partido, kit de entrenamiento acolchado y accesorios — diseñados para verse rápidos y sentirse élite en cada campo.",
+    "shopGloves": "Comprar guantes",
+    "findGlove": "Encuentra tu guante",
+    "trustedBy": "Con la confianza de los porteros",
+    "products": "productos",
+    "guides": "guías de portero"
+  },
+  "console": {
+    "title": "Modo Portero",
+    "live": "en vivo",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "grados de protección",
+    "compromises": "concesiones",
+    "potential": "potencial"
+  },
+  "modes": {
+    "academy": {
+      "title": "Empieza aquí. Sube de nivel.",
+      "text": "Guantes junior, comodidad de entrenamiento y packs aptos para padres para porteros jóvenes.",
+      "cta": "Explorar Academy"
+    },
+    "match": {
+      "title": "Día de partido. Domínalo.",
+      "text": "Guantes de partido, camisetas de manga larga y kit listo para el equipo en el fútbol semanal.",
+      "cta": "Explorar Match"
+    },
+    "elite": {
+      "title": "Sin excusas. Solo resultados.",
+      "text": "Protección acolchada, capas de compresión y accesorios premium para sesiones de alta intensidad.",
+      "cta": "Explorar Elite"
+    }
+  },
+  "featured": {
+    "kicker": "Equipamiento destacado",
+    "titleA": "Empieza con los",
+    "titleB": "creadores de paradas",
+    "copy": "Guantes hechos para agarre, protección y confianza. Completa el kit con ropa de partido, equipo de entrenamiento y accesorios.",
+    "prev": "Productos anteriores",
+    "next": "Productos siguientes"
+  },
+  "values": {
+    "grip": "Agarre",
+    "gripText": "Máximo control desde el primer toque hasta la última parada.",
+    "protect": "Proteger",
+    "protectText": "Hecho para estiradas, contacto, césped artificial y repetición.",
+    "perform": "Rendir",
+    "performText": "Rápido, preciso, ligero y seguro el día del partido.",
+    "focus": "Foco",
+    "focusText": "Concéntrate, aíslate y dueña tu área."
+  },
+  "lab": {
+    "kicker": "Laboratorio de guantes interactivo",
+    "title": "Elige tu estilo de parada.",
+    "copy": "Encuentra el ajuste adecuado para tu nivel. Elige tu perfil de portero y te emparejaremos con el equipo perfecto.",
+    "level": "Nivel de portero",
+    "levelBeginner": "Principiante / academy",
+    "levelMatch": "Jugador de partido semanal",
+    "levelElite": "Entrenamiento elite",
+    "age": "Grupo de edad",
+    "ageJunior": "Junior",
+    "ageAdult": "Adolescente / adulto",
+    "use": "Uso principal",
+    "useTraining": "Sesiones de entrenamiento",
+    "useMatch": "Día de partido",
+    "useTurf": "Césped artificial / alta repetición",
+    "submit": "Revelar mi guante"
+  },
+  "essentials": {
+    "kicker": "Esenciales",
+    "titleA": "Hecho para",
+    "titleB": "cada parada",
+    "copy": "Completa tu equipo de portero con protección acolchada, capas base, calcetines, bolsas y accesorios esenciales."
+  },
+  "kit": {
+    "kicker": "Microcomercio",
+    "title": "Arma tu kit de portero.",
+    "copy": "Arma tu kit de portero perfecto. Combina guantes, ropa de partido y accesorios para crear un pack que se ajuste a tu juego.",
+    "starter": "Inicial",
+    "match": "Día de partido",
+    "elite": "Elite",
+    "estimated": "Pack estimado",
+    "build": "Armar este kit"
+  },
+  "levels": {
+    "kicker": "Comprar por nivel",
+    "title": "Academy. Match. Elite.",
+    "copy": "Tres niveles claros hacen que la gama sea fácil de entender para padres, equipos y porteros serios.",
+    "academyTitle": "Empieza aquí. Sube de nivel.",
+    "academyText": "Guantes y equipo de entrenamiento aptos para junior.",
+    "matchTitle": "Día de partido. Domínalo.",
+    "matchText": "Guantes de partido, camisetas y kit listo para el equipo.",
+    "eliteTitle": "Sin excusas. Solo resultados.",
+    "eliteText": "Capas técnicas, protecciones y accesorios premium."
+  },
+  "club": {
+    "kicker": "Motor de comunidad",
+    "titleA": "Únete al",
+    "titleB": "Keepers Club",
+    "copy": "Más que equipo. Un movimiento para porteros jóvenes que entrenan diferente, se estiran más fuerte y quieren ser el jugador en quien todos confían cuando el partido se vuelve caótico.",
+    "perk1": "Drops exclusivos",
+    "perk2": "Consejos de entrenamiento",
+    "perk3": "Descuentos para miembros",
+    "perk4": "Acceso anticipado",
+    "join": "Únete gratis"
+  },
+  "search": {
+    "label": "Buscar S1GK",
+    "placeholder": "Prueba guantes de partido, junior, pantalón acolchado…",
+    "noResults": "Aún no se encontró equipo de portero. Prueba guantes, junior, pantalón o partido."
+  },
+  "common": {
+    "from": "Desde",
+    "addToKit": "Añadir al kit",
+    "shopGloves": "Comprar guantes",
+    "findMyGlove": "Encontrar mi guante",
+    "readyCta": "¿Listo para dueñar tu área?",
+    "size": "Talla",
+    "selectSize": "Elegir talla",
+    "ownTheBox": "Dueña tu área."
+  },
+  "cart": {
+    "emptyTitle": "Tu carrito está vacío",
+    "emptySub": "Arma tu equipo de portero perfecto añadiendo guantes, ropa de partido y accesorios de entrenamiento.",
+    "browseAll": "Ver todo el equipo",
+    "yourSelection": "Tu selección",
+    "summary": "Resumen",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "total": "Total",
+    "checkout": "Ir a pagar",
+    "freeDelivery": "Envío gratis en pedidos superiores a {amount}. Devoluciones fáciles en 30 días.",
+    "remove": "Quitar artículo",
+    "added": "añadido al kit",
+    "loading": "Cargando tu selección..."
+  },
+  "checkout": {
+    "title": "Pago seguro",
+    "intro": "Introduce tus datos de envío abajo. No se necesita tarjeta para este pedido de demostración.",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "address": "Dirección de envío",
+    "city": "Ciudad",
+    "zip": "Código postal",
+    "complete": "Completar pedido",
+    "placedTitle": "¡Pedido realizado!",
+    "placedText": "Gracias por tu pedido. Tu equipo de portero está asegurado.",
+    "close": "Cerrar",
+    "redirecting": "Redirigiendo al pago seguro…"
+  },
+  "footer": {
+    "stayLockedIn": "Mantente conectado",
+    "shop": "Tienda",
+    "learn": "Aprender",
+    "brand": "Marca",
+    "newsletterCopy": "Suscríbete para drops, consejos de portero y novedades.",
+    "emailPlaceholder": "Introduce tu correo",
+    "signUp": "Suscribirse",
+    "tagline": "Construido diferente. Hecho para porteros. Construido para ganar.",
+    "rights": "© 2026 S1GK. Todos los derechos reservados.",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "sitemap": "Mapa del sitio"
+  },
+  "toast": {
+    "subscribed": "Suscrito",
+    "submitted": "Solicitud enviada con éxito",
+    "unlocked": "desbloqueado",
+    "loaded": "cargado"
+  },
+  "meta": {
+    "homeTitle": "S1GK Guantes de Portero, Ropa & Equipo Keeper | Own The Box",
+    "homeDesc": "Equipamiento de portero premium: guantes de partido, entrenamiento y junior, ropa de portero, kit acolchado y accesorios."
+  }
+}

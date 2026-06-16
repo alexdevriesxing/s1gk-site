@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Home",
+    "gloves": "Gloves",
+    "matchwear": "Matchwear",
+    "training": "Training",
+    "accessories": "Accessories",
+    "junior": "Junior",
+    "guides": "Guides",
+    "about": "About",
+    "contact": "Contact",
+    "shopAll": "Shop All"
+  },
+  "a11y": {
+    "search": "Search site",
+    "account": "Account",
+    "cart": "Cart",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "closeSearch": "Close search",
+    "language": "Choose language"
+  },
+  "topbar": {
+    "tagline": "Built for keepers. Made to win."
+  },
+  "hero": {
+    "titleA": "Built Different",
+    "titleB": "For Keepers",
+    "lead": "Premium goalkeeper gear: match gloves, training gloves, junior gloves, matchwear, padded training kit and accessories — designed to look fast and feel elite on every pitch.",
+    "shopGloves": "Shop Gloves",
+    "findGlove": "Find Your Glove",
+    "trustedBy": "Trusted by keepers",
+    "products": "products",
+    "guides": "keeper guides"
+  },
+  "console": {
+    "title": "Keeper Mode",
+    "live": "live",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "degree protection",
+    "compromises": "compromises",
+    "potential": "potential"
+  },
+  "modes": {
+    "academy": {
+      "title": "Start here. Level up.",
+      "text": "Junior gloves, training comfort and parent-friendly bundles for young keepers.",
+      "cta": "Explore Academy"
+    },
+    "match": {
+      "title": "Game day. Own it.",
+      "text": "Match gloves, long-sleeve jerseys and team-ready kit for weekly football.",
+      "cta": "Explore Match"
+    },
+    "elite": {
+      "title": "No excuses. Just results.",
+      "text": "Padded protection, compression layers and premium accessories for high-intensity sessions.",
+      "cta": "Explore Elite"
+    }
+  },
+  "featured": {
+    "kicker": "Featured gear",
+    "titleA": "Start with the",
+    "titleB": "save makers",
+    "copy": "Gloves built for grip, protection and confidence. Complete the kit with matchwear, training gear and accessories.",
+    "prev": "Previous products",
+    "next": "Next products"
+  },
+  "values": {
+    "grip": "Grip",
+    "gripText": "Maximum control from first touch to final save.",
+    "protect": "Protect",
+    "protectText": "Built for dives, contact, turf and repetition.",
+    "perform": "Perform",
+    "performText": "Fast, sharp, light and matchday confident.",
+    "focus": "Focus",
+    "focusText": "Lock in, block out and own your box."
+  },
+  "lab": {
+    "kicker": "Interactive glove lab",
+    "title": "Pick your save style.",
+    "copy": "Find the right fit for your level. Choose your keeper profile and we’ll match you to the perfect gear.",
+    "level": "Keeper level",
+    "levelBeginner": "Beginner / academy",
+    "levelMatch": "Weekly match player",
+    "levelElite": "Elite training",
+    "age": "Age group",
+    "ageJunior": "Junior",
+    "ageAdult": "Teen / adult",
+    "use": "Main use",
+    "useTraining": "Training sessions",
+    "useMatch": "Matchday",
+    "useTurf": "Turf / high repetition",
+    "submit": "Reveal My Glove"
+  },
+  "essentials": {
+    "kicker": "Essentials",
+    "titleA": "Built for",
+    "titleB": "every save",
+    "copy": "Complete your keeper setup with padded protection, base layers, socks, bags and essential accessories."
+  },
+  "kit": {
+    "kicker": "Micro-commerce",
+    "title": "Build your keeper kit.",
+    "copy": "Build your perfect keeper kit. Mix and match gloves, matchwear and accessories to create a bundle that fits your game.",
+    "starter": "Starter",
+    "match": "Matchday",
+    "elite": "Elite",
+    "estimated": "Estimated bundle",
+    "build": "Build this kit"
+  },
+  "levels": {
+    "kicker": "Shop by level",
+    "title": "Academy. Match. Elite.",
+    "copy": "Three clear levels make the range easy for parents, teams and serious keepers to understand.",
+    "academyTitle": "Start here. Level up.",
+    "academyText": "Junior-friendly gloves and training gear.",
+    "matchTitle": "Game day. Own it.",
+    "matchText": "Match gloves, jerseys and team-ready kit.",
+    "eliteTitle": "No excuses. Just results.",
+    "eliteText": "Technical layers, pads and premium accessories."
+  },
+  "club": {
+    "kicker": "Community engine",
+    "titleA": "Join the",
+    "titleB": "Keepers Club",
+    "copy": "More than gear. A movement for young keepers who train different, dive harder and want to be the player everyone trusts when the match gets chaotic.",
+    "perk1": "Exclusive drops",
+    "perk2": "Training tips",
+    "perk3": "Member discounts",
+    "perk4": "Early access",
+    "join": "Join free"
+  },
+  "search": {
+    "label": "Search S1GK",
+    "placeholder": "Try match gloves, junior, padded pants…",
+    "noResults": "No keeper gear found yet. Try gloves, junior, pants or match."
+  },
+  "common": {
+    "from": "From",
+    "addToKit": "Add to kit",
+    "shopGloves": "Shop gloves",
+    "findMyGlove": "Find my glove",
+    "readyCta": "Ready to own the box?",
+    "size": "Size",
+    "selectSize": "Select size",
+    "ownTheBox": "Own the box."
+  },
+  "cart": {
+    "emptyTitle": "Your cart is empty",
+    "emptySub": "Build your perfect goalkeeper setup by adding gloves, matchwear, and training accessories.",
+    "browseAll": "Browse All Gear",
+    "yourSelection": "Your Selection",
+    "summary": "Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "freeDelivery": "Free delivery on orders over {amount}. Easy returns within 30 days.",
+    "remove": "Remove item",
+    "added": "added to kit",
+    "loading": "Loading your selection..."
+  },
+  "checkout": {
+    "title": "Secure Checkout",
+    "intro": "Enter your shipping details below. No payment card is needed for this demo order.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "address": "Shipping Address",
+    "city": "City",
+    "zip": "Postcode",
+    "complete": "Complete Order",
+    "placedTitle": "Order Placed!",
+    "placedText": "Thank you for your order. Your keeper gear is locked in.",
+    "close": "Close",
+    "redirecting": "Redirecting to secure payment…"
+  },
+  "footer": {
+    "stayLockedIn": "Stay locked in",
+    "shop": "Shop",
+    "learn": "Learn",
+    "brand": "Brand",
+    "newsletterCopy": "Sign up for drops, keeper tips and product updates.",
+    "emailPlaceholder": "Enter your email",
+    "signUp": "Sign up",
+    "tagline": "Built different. Made for keepers. Made to win.",
+    "rights": "© 2026 S1GK. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "sitemap": "Sitemap"
+  },
+  "toast": {
+    "subscribed": "Subscribed",
+    "submitted": "Request submitted successfully",
+    "unlocked": "unlocked",
+    "loaded": "loaded"
+  },
+  "meta": {
+    "homeTitle": "S1GK Goalkeeper Gloves, Matchwear & Keeper Gear | Own The Box",
+    "homeDesc": "Premium goalkeeper gear: match, training and junior goalkeeper gloves, keeper matchwear, padded training kit and accessories. Built for keepers."
+  }
+}

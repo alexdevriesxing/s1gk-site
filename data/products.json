@@ -18,6 +18,13 @@
       "easy wrist closure",
       "junior fit",
       "starter grip"
+    ],
+    "currency": "EUR",
+    "sizes": [
+      "4",
+      "5",
+      "6",
+      "7"
     ]
   },
   {
@@ -39,6 +46,15 @@
       "negative/hybrid cut concept",
       "secure wrist strap",
       "game-day control"
+    ],
+    "currency": "EUR",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
     ]
   },
   {
@@ -60,6 +76,15 @@
       "daily training fit",
       "reinforced backhand",
       "budget-smart performance"
+    ],
+    "currency": "EUR",
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
     ]
   },
   {
@@ -81,6 +106,15 @@
       "athletic cut",
       "keeper graphics",
       "match-ready comfort"
+    ],
+    "currency": "EUR",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
     ]
   },
   {
@@ -102,6 +136,15 @@
       "fast-dry concept",
       "team-order ready",
       "everyday training fit"
+    ],
+    "currency": "EUR",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
     ]
   },
   {
@@ -123,6 +166,15 @@
       "tapered fit",
       "turf training concept",
       "protective movement"
+    ],
+    "currency": "EUR",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
     ]
   },
   {
@@ -144,6 +196,15 @@
       "stretch waistband",
       "team-order ready",
       "clean styling"
+    ],
+    "currency": "EUR",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
     ]
   },
   {
@@ -165,6 +226,15 @@
       "warm-up ready",
       "sleek seams",
       "training comfort"
+    ],
+    "currency": "EUR",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
     ]
   },
   {
@@ -186,6 +256,15 @@
       "under-shorts layer",
       "training comfort",
       "sleek fit"
+    ],
+    "currency": "EUR",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
     ]
   },
   {
@@ -207,6 +286,12 @@
       "stable footwork",
       "crew height",
       "training and match"
+    ],
+    "currency": "EUR",
+    "sizes": [
+      "S",
+      "M",
+      "L"
     ]
   },
   {
@@ -228,7 +313,9 @@
       "travel friendly",
       "easy-care lining",
       "brand carry"
-    ]
+    ],
+    "currency": "EUR",
+    "sizes": []
   },
   {
     "id": "backpack",
@@ -249,7 +336,9 @@
       "boot-friendly layout",
       "team travel",
       "daily carry"
-    ]
+    ],
+    "currency": "EUR",
+    "sizes": []
   },
   {
     "id": "water-bottle",
@@ -270,6 +359,8 @@
       "sideline ready",
       "easy grip",
       "S1GK branding"
-    ]
+    ],
+    "currency": "EUR",
+    "sizes": []
   }
 ]

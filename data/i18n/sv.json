@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Hem",
+    "gloves": "Handskar",
+    "matchwear": "Matchkläder",
+    "training": "Träning",
+    "accessories": "Tillbehör",
+    "junior": "Junior",
+    "guides": "Guider",
+    "about": "Om oss",
+    "contact": "Kontakt",
+    "shopAll": "Visa allt"
+  },
+  "a11y": {
+    "search": "Sök på sidan",
+    "account": "Konto",
+    "cart": "Varukorg",
+    "openMenu": "Öppna meny",
+    "closeMenu": "Stäng meny",
+    "closeSearch": "Stäng sök",
+    "language": "Välj språk"
+  },
+  "topbar": {
+    "tagline": "Byggd för målvakter. Skapad för att vinna."
+  },
+  "hero": {
+    "titleA": "Byggd Annorlunda",
+    "titleB": "För Målvakter",
+    "lead": "Premiumutrustning för målvakter: matchhandskar, träningshandskar, juniorhandskar, matchkläder, vadderat träningskit och tillbehör — designade för att se snabba ut och kännas elit på varje plan.",
+    "shopGloves": "Köp handskar",
+    "findGlove": "Hitta din handske",
+    "trustedBy": "Betrodd av målvakter",
+    "products": "produkter",
+    "guides": "målvaktsguider"
+  },
+  "console": {
+    "title": "Keeper-läge",
+    "live": "live",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "graders skydd",
+    "compromises": "kompromisser",
+    "potential": "potential"
+  },
+  "modes": {
+    "academy": {
+      "title": "Börja här. Höj nivån.",
+      "text": "Juniorhandskar, träningskomfort och föräldravänliga paket för unga målvakter.",
+      "cta": "Utforska Academy"
+    },
+    "match": {
+      "title": "Matchdag. Ta den.",
+      "text": "Matchhandskar, långärmade tröjor och lagklart kit för veckans fotboll.",
+      "cta": "Utforska Match"
+    },
+    "elite": {
+      "title": "Inga ursäkter. Bara resultat.",
+      "text": "Vadderat skydd, kompressionslager och premiumtillbehör för högintensiva pass.",
+      "cta": "Utforska Elite"
+    }
+  },
+  "featured": {
+    "kicker": "Utvald utrustning",
+    "titleA": "Börja med",
+    "titleB": "räddningsmakarna",
+    "copy": "Handskar byggda för grepp, skydd och självförtroende. Komplettera kitet med matchkläder, träningsutrustning och tillbehör.",
+    "prev": "Föregående produkter",
+    "next": "Nästa produkter"
+  },
+  "values": {
+    "grip": "Grepp",
+    "gripText": "Maximal kontroll från första touch till sista räddning.",
+    "protect": "Skydda",
+    "protectText": "Byggd för dyk, kontakt, konstgräs och repetition.",
+    "perform": "Prestera",
+    "performText": "Snabb, skarp, lätt och självsäker på matchdagen.",
+    "focus": "Fokus",
+    "focusText": "Fokusera, stäng ute allt och äg ditt straffområde."
+  },
+  "lab": {
+    "kicker": "Interaktivt handsklabb",
+    "title": "Välj din räddningsstil.",
+    "copy": "Hitta rätt passform för din nivå. Välj din målvaktsprofil så matchar vi dig med den perfekta utrustningen.",
+    "level": "Målvaktsnivå",
+    "levelBeginner": "Nybörjare / academy",
+    "levelMatch": "Veckans matchspelare",
+    "levelElite": "Elitträning",
+    "age": "Åldersgrupp",
+    "ageJunior": "Junior",
+    "ageAdult": "Tonåring / vuxen",
+    "use": "Huvudanvändning",
+    "useTraining": "Träningspass",
+    "useMatch": "Matchdag",
+    "useTurf": "Konstgräs / hög repetition",
+    "submit": "Visa min handske"
+  },
+  "essentials": {
+    "kicker": "Essentials",
+    "titleA": "Byggd för",
+    "titleB": "varje räddning",
+    "copy": "Komplettera din målvaktsuppsättning med vadderat skydd, baslager, strumpor, väskor och nödvändiga tillbehör."
+  },
+  "kit": {
+    "kicker": "Mikrohandel",
+    "title": "Bygg ditt målvaktskit.",
+    "copy": "Bygg ditt perfekta målvaktskit. Mixa handskar, matchkläder och tillbehör för att skapa ett paket som passar ditt spel.",
+    "starter": "Starter",
+    "match": "Matchdag",
+    "elite": "Elite",
+    "estimated": "Uppskattat paket",
+    "build": "Bygg detta kit"
+  },
+  "levels": {
+    "kicker": "Handla efter nivå",
+    "title": "Academy. Match. Elite.",
+    "copy": "Tre tydliga nivåer gör sortimentet lätt att förstå för föräldrar, lag och seriösa målvakter.",
+    "academyTitle": "Börja här. Höj nivån.",
+    "academyText": "Juniorvänliga handskar och träningsutrustning.",
+    "matchTitle": "Matchdag. Ta den.",
+    "matchText": "Matchhandskar, tröjor och lagklart kit.",
+    "eliteTitle": "Inga ursäkter. Bara resultat.",
+    "eliteText": "Tekniska lager, skydd och premiumtillbehör."
+  },
+  "club": {
+    "kicker": "Community-motor",
+    "titleA": "Gå med i",
+    "titleB": "Keepers Club",
+    "copy": "Mer än utrustning. En rörelse för unga målvakter som tränar annorlunda, dyker hårdare och vill vara spelaren alla litar på när matchen blir kaotisk.",
+    "perk1": "Exklusiva drops",
+    "perk2": "Träningstips",
+    "perk3": "Medlemsrabatter",
+    "perk4": "Tidig tillgång",
+    "join": "Gå med gratis"
+  },
+  "search": {
+    "label": "Sök S1GK",
+    "placeholder": "Prova matchhandskar, junior, vadderade byxor…",
+    "noResults": "Ingen målvaktsutrustning hittades än. Prova handskar, junior, byxor eller match."
+  },
+  "common": {
+    "from": "Från",
+    "addToKit": "Lägg till i kit",
+    "shopGloves": "Köp handskar",
+    "findMyGlove": "Hitta min handske",
+    "readyCta": "Redo att äga ditt straffområde?",
+    "size": "Storlek",
+    "selectSize": "Välj storlek",
+    "ownTheBox": "Äg ditt straffområde."
+  },
+  "cart": {
+    "emptyTitle": "Din varukorg är tom",
+    "emptySub": "Bygg din perfekta målvaktsuppsättning genom att lägga till handskar, matchkläder och träningstillbehör.",
+    "browseAll": "Bläddra bland all utrustning",
+    "yourSelection": "Ditt urval",
+    "summary": "Sammanfattning",
+    "subtotal": "Delsumma",
+    "shipping": "Frakt",
+    "total": "Totalt",
+    "checkout": "Gå till kassan",
+    "freeDelivery": "Fri frakt på beställningar över {amount}. Enkla returer inom 30 dagar.",
+    "remove": "Ta bort vara",
+    "added": "tillagd i kit",
+    "loading": "Laddar ditt urval..."
+  },
+  "checkout": {
+    "title": "Säker kassa",
+    "intro": "Ange dina leveransuppgifter nedan. Inget betalkort behövs för denna demobeställning.",
+    "firstName": "Förnamn",
+    "lastName": "Efternamn",
+    "email": "E-postadress",
+    "address": "Leveransadress",
+    "city": "Stad",
+    "zip": "Postnummer",
+    "complete": "Slutför beställning",
+    "placedTitle": "Beställning lagd!",
+    "placedText": "Tack för din beställning. Din målvaktsutrustning är säkrad.",
+    "close": "Stäng",
+    "redirecting": "Omdirigerar till säker betalning…"
+  },
+  "footer": {
+    "stayLockedIn": "Håll dig uppdaterad",
+    "shop": "Butik",
+    "learn": "Lär dig",
+    "brand": "Varumärke",
+    "newsletterCopy": "Anmäl dig för drops, målvaktstips och produktnyheter.",
+    "emailPlaceholder": "Ange din e-post",
+    "signUp": "Anmäl dig",
+    "tagline": "Byggd annorlunda. Skapad för målvakter. Skapad för att vinna.",
+    "rights": "© 2026 S1GK. Alla rättigheter förbehållna.",
+    "privacy": "Integritet",
+    "terms": "Villkor",
+    "sitemap": "Webbkarta"
+  },
+  "toast": {
+    "subscribed": "Prenumererad",
+    "submitted": "Begäran skickad",
+    "unlocked": "upplåst",
+    "loaded": "laddad"
+  },
+  "meta": {
+    "homeTitle": "S1GK Målvaktshandskar, Matchkläder & Keeper-Utrustning | Own The Box",
+    "homeDesc": "Premiumutrustning för målvakter: match-, tränings- och juniorhandskar, matchkläder, vadderat kit och tillbehör."
+  }
+}

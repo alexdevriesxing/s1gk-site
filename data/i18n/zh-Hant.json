@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "首頁",
+    "gloves": "手套",
+    "matchwear": "比賽服",
+    "training": "訓練",
+    "accessories": "配件",
+    "junior": "青少年",
+    "guides": "指南",
+    "about": "關於",
+    "contact": "聯絡",
+    "shopAll": "查看全部"
+  },
+  "a11y": {
+    "search": "搜尋網站",
+    "account": "帳戶",
+    "cart": "購物車",
+    "openMenu": "開啟選單",
+    "closeMenu": "關閉選單",
+    "closeSearch": "關閉搜尋",
+    "language": "選擇語言"
+  },
+  "topbar": {
+    "tagline": "為守門員打造。為勝利而生。"
+  },
+  "hero": {
+    "titleA": "與眾不同",
+    "titleB": "專為守門員",
+    "lead": "頂級守門員裝備：比賽手套、訓練手套、青少年手套、比賽服、加墊訓練服與配件——設計讓你在每片球場上看起來迅捷、感覺頂尖。",
+    "shopGloves": "選購手套",
+    "findGlove": "找到你的手套",
+    "trustedBy": "守門員信賴之選",
+    "products": "件產品",
+    "guides": "份守門員指南"
+  },
+  "console": {
+    "title": "守門員模式",
+    "live": "即時",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "度全方位保護",
+    "compromises": "妥協",
+    "potential": "潛力"
+  },
+  "modes": {
+    "academy": {
+      "title": "從這裡開始，更上層樓。",
+      "text": "青少年手套、訓練舒適感與適合家長的組合，專為年輕守門員打造。",
+      "cta": "探索 Academy"
+    },
+    "match": {
+      "title": "比賽日，掌控全場。",
+      "text": "比賽手套、長袖球衣與球隊就緒套裝，適合每週的足球賽。",
+      "cta": "探索 Match"
+    },
+    "elite": {
+      "title": "沒有藉口，只有結果。",
+      "text": "加墊保護、壓縮層與頂級配件，專為高強度訓練打造。",
+      "cta": "探索 Elite"
+    }
+  },
+  "featured": {
+    "kicker": "精選裝備",
+    "titleA": "從這些開始",
+    "titleB": "撲救締造者",
+    "copy": "為抓握、保護與自信而打造的手套。用比賽服、訓練裝備與配件完成整套裝備。",
+    "prev": "上一個產品",
+    "next": "下一個產品"
+  },
+  "values": {
+    "grip": "抓握",
+    "gripText": "從第一次觸球到最後一次撲救的極致掌控。",
+    "protect": "保護",
+    "protectText": "為撲救、碰撞、人工草皮與反覆訓練而打造。",
+    "perform": "表現",
+    "performText": "快速、銳利、輕盈，比賽日自信滿滿。",
+    "focus": "專注",
+    "focusText": "鎖定、屏除干擾，掌控你的禁區。"
+  },
+  "lab": {
+    "kicker": "互動手套實驗室",
+    "title": "選擇你的撲救風格。",
+    "copy": "找到適合你水準的版型。選擇你的守門員檔案，我們將為你配對完美裝備。",
+    "level": "守門員水準",
+    "levelBeginner": "初學者 / academy",
+    "levelMatch": "每週比賽球員",
+    "levelElite": "精英訓練",
+    "age": "年齡組別",
+    "ageJunior": "青少年",
+    "ageAdult": "青少年 / 成人",
+    "use": "主要用途",
+    "useTraining": "訓練課程",
+    "useMatch": "比賽日",
+    "useTurf": "人工草皮 / 高反覆",
+    "submit": "揭曉我的手套"
+  },
+  "essentials": {
+    "kicker": "必備",
+    "titleA": "為",
+    "titleB": "每次撲救而打造",
+    "copy": "用加墊保護、底層衣、襪子、背包與必備配件完成你的守門員配置。"
+  },
+  "kit": {
+    "kicker": "微型商務",
+    "title": "打造你的守門員套裝。",
+    "copy": "打造你的完美守門員套裝。搭配手套、比賽服與配件，創造適合你比賽風格的組合。",
+    "starter": "入門",
+    "match": "比賽日",
+    "elite": "Elite",
+    "estimated": "預估組合",
+    "build": "打造此套裝"
+  },
+  "levels": {
+    "kicker": "依水準選購",
+    "title": "Academy。Match。Elite。",
+    "copy": "三個清晰的等級，讓家長、球隊與認真的守門員都能輕鬆理解整個系列。",
+    "academyTitle": "從這裡開始，更上層樓。",
+    "academyText": "適合青少年的手套與訓練裝備。",
+    "matchTitle": "比賽日，掌控全場。",
+    "matchText": "比賽手套、球衣與球隊就緒套裝。",
+    "eliteTitle": "沒有藉口，只有結果。",
+    "eliteText": "技術層、護墊與頂級配件。"
+  },
+  "club": {
+    "kicker": "社群引擎",
+    "titleA": "加入",
+    "titleB": "Keepers Club",
+    "copy": "不只是裝備。這是一場運動，獻給以不同方式訓練、撲得更狠、想成為比賽混亂時眾人信賴球員的年輕守門員。",
+    "perk1": "獨家新品",
+    "perk2": "訓練技巧",
+    "perk3": "會員折扣",
+    "perk4": "搶先體驗",
+    "join": "免費加入"
+  },
+  "search": {
+    "label": "搜尋 S1GK",
+    "placeholder": "試試比賽手套、青少年、加墊長褲…",
+    "noResults": "尚未找到守門員裝備。試試手套、青少年、長褲或比賽。"
+  },
+  "common": {
+    "from": "起",
+    "addToKit": "加入套裝",
+    "shopGloves": "選購手套",
+    "findMyGlove": "找到我的手套",
+    "readyCta": "準備好掌控你的禁區了嗎？",
+    "size": "尺寸",
+    "selectSize": "選擇尺寸",
+    "ownTheBox": "掌控你的禁區。"
+  },
+  "cart": {
+    "emptyTitle": "你的購物車是空的",
+    "emptySub": "加入手套、比賽服與訓練配件，打造你的完美守門員配置。",
+    "browseAll": "瀏覽所有裝備",
+    "yourSelection": "你的選擇",
+    "summary": "摘要",
+    "subtotal": "小計",
+    "shipping": "運費",
+    "total": "總計",
+    "checkout": "前往結帳",
+    "freeDelivery": "訂單滿 {amount} 免運。30 天內輕鬆退貨。",
+    "remove": "移除商品",
+    "added": "已加入套裝",
+    "loading": "正在載入你的選擇…"
+  },
+  "checkout": {
+    "title": "安全結帳",
+    "intro": "請在下方輸入你的收件資訊。此示範訂單無需付款卡。",
+    "firstName": "名字",
+    "lastName": "姓氏",
+    "email": "電子郵件",
+    "address": "收件地址",
+    "city": "城市",
+    "zip": "郵遞區號",
+    "complete": "完成訂單",
+    "placedTitle": "訂單已送出！",
+    "placedText": "感謝你的訂購。你的守門員裝備已鎖定。",
+    "close": "關閉",
+    "redirecting": "正在轉向安全付款…"
+  },
+  "footer": {
+    "stayLockedIn": "保持鎖定",
+    "shop": "商店",
+    "learn": "學習",
+    "brand": "品牌",
+    "newsletterCopy": "訂閱以獲得新品、守門員技巧與產品更新。",
+    "emailPlaceholder": "輸入你的電子郵件",
+    "signUp": "訂閱",
+    "tagline": "與眾不同。為守門員打造。為勝利而生。",
+    "rights": "© 2026 S1GK。版權所有。",
+    "privacy": "隱私權",
+    "terms": "條款",
+    "sitemap": "網站地圖"
+  },
+  "toast": {
+    "subscribed": "已訂閱",
+    "submitted": "請求已成功送出",
+    "unlocked": "已解鎖",
+    "loaded": "已載入"
+  },
+  "meta": {
+    "homeTitle": "S1GK 守門員手套、比賽服與門將裝備 | Own The Box",
+    "homeDesc": "頂級守門員裝備：比賽、訓練與青少年手套、比賽服、加墊套裝與配件。為守門員打造。"
+  }
+}

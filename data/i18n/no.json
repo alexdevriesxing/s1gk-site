@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Hjem",
+    "gloves": "Hansker",
+    "matchwear": "Kampklær",
+    "training": "Trening",
+    "accessories": "Tilbehør",
+    "junior": "Junior",
+    "guides": "Guider",
+    "about": "Om oss",
+    "contact": "Kontakt",
+    "shopAll": "Se alt"
+  },
+  "a11y": {
+    "search": "Søk på siden",
+    "account": "Konto",
+    "cart": "Handlekurv",
+    "openMenu": "Åpne meny",
+    "closeMenu": "Lukk meny",
+    "closeSearch": "Lukk søk",
+    "language": "Velg språk"
+  },
+  "topbar": {
+    "tagline": "Bygget for keepere. Skapt for å vinne."
+  },
+  "hero": {
+    "titleA": "Bygget Annerledes",
+    "titleB": "For Keepere",
+    "lead": "Premium keeperutstyr: kamphansker, treningshansker, juniorhansker, kampklær, polstret treningssett og tilbehør — designet for å se raske ut og føles elite på enhver bane.",
+    "shopGloves": "Kjøp hansker",
+    "findGlove": "Finn hansken din",
+    "trustedBy": "Stolt på av keepere",
+    "products": "produkter",
+    "guides": "keeperguider"
+  },
+  "console": {
+    "title": "Keeper-modus",
+    "live": "live",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "graders beskyttelse",
+    "compromises": "kompromisser",
+    "potential": "potensial"
+  },
+  "modes": {
+    "academy": {
+      "title": "Start her. Gå opp et nivå.",
+      "text": "Juniorhansker, treningskomfort og foreldrevennlige pakker for unge keepere.",
+      "cta": "Utforsk Academy"
+    },
+    "match": {
+      "title": "Kampdag. Ta den.",
+      "text": "Kamphansker, langermede drakter og lagklart sett for ukens fotball.",
+      "cta": "Utforsk Match"
+    },
+    "elite": {
+      "title": "Ingen unnskyldninger. Bare resultater.",
+      "text": "Polstret beskyttelse, kompresjonslag og premium tilbehør for intense økter.",
+      "cta": "Utforsk Elite"
+    }
+  },
+  "featured": {
+    "kicker": "Utvalgt utstyr",
+    "titleA": "Start med",
+    "titleB": "redningsmakerne",
+    "copy": "Hansker bygget for grep, beskyttelse og selvtillit. Fullfør settet med kampklær, treningsutstyr og tilbehør.",
+    "prev": "Forrige produkter",
+    "next": "Neste produkter"
+  },
+  "values": {
+    "grip": "Grep",
+    "gripText": "Maksimal kontroll fra første touch til siste redning.",
+    "protect": "Beskytt",
+    "protectText": "Bygget for utkast, kontakt, kunstgress og repetisjon.",
+    "perform": "Prester",
+    "performText": "Rask, skarp, lett og selvsikker på kampdagen.",
+    "focus": "Fokus",
+    "focusText": "Fokuser, steng ute alt og eie ditt felt."
+  },
+  "lab": {
+    "kicker": "Interaktiv hanskelab",
+    "title": "Velg din redningsstil.",
+    "copy": "Finn riktig passform for ditt nivå. Velg keeperprofilen din, så matcher vi deg med det perfekte utstyret.",
+    "level": "Keepernivå",
+    "levelBeginner": "Nybegynner / academy",
+    "levelMatch": "Ukentlig kampspiller",
+    "levelElite": "Elitetrening",
+    "age": "Aldersgruppe",
+    "ageJunior": "Junior",
+    "ageAdult": "Tenåring / voksen",
+    "use": "Hovedbruk",
+    "useTraining": "Treningsøkter",
+    "useMatch": "Kampdag",
+    "useTurf": "Kunstgress / høy repetisjon",
+    "submit": "Vis hansken min"
+  },
+  "essentials": {
+    "kicker": "Essentials",
+    "titleA": "Bygget for",
+    "titleB": "hver redning",
+    "copy": "Fullfør keeperoppsettet ditt med polstret beskyttelse, baselag, sokker, bager og essensielt tilbehør."
+  },
+  "kit": {
+    "kicker": "Mikrohandel",
+    "title": "Bygg keepersettet ditt.",
+    "copy": "Bygg ditt perfekte keepersett. Miks hansker, kampklær og tilbehør for å lage en pakke som passer spillet ditt.",
+    "starter": "Starter",
+    "match": "Kampdag",
+    "elite": "Elite",
+    "estimated": "Estimert pakke",
+    "build": "Bygg dette settet"
+  },
+  "levels": {
+    "kicker": "Handle etter nivå",
+    "title": "Academy. Match. Elite.",
+    "copy": "Tre tydelige nivåer gjør sortimentet lett å forstå for foreldre, lag og seriøse keepere.",
+    "academyTitle": "Start her. Gå opp et nivå.",
+    "academyText": "Juniorvennlige hansker og treningsutstyr.",
+    "matchTitle": "Kampdag. Ta den.",
+    "matchText": "Kamphansker, drakter og lagklart sett.",
+    "eliteTitle": "Ingen unnskyldninger. Bare resultater.",
+    "eliteText": "Tekniske lag, beskyttelse og premium tilbehør."
+  },
+  "club": {
+    "kicker": "Fellesskapsmotor",
+    "titleA": "Bli med i",
+    "titleB": "Keepers Club",
+    "copy": "Mer enn utstyr. En bevegelse for unge keepere som trener annerledes, kaster seg hardere og vil være spilleren alle stoler på når kampen blir kaotisk.",
+    "perk1": "Eksklusive drops",
+    "perk2": "Treningstips",
+    "perk3": "Medlemsrabatter",
+    "perk4": "Tidlig tilgang",
+    "join": "Bli med gratis"
+  },
+  "search": {
+    "label": "Søk S1GK",
+    "placeholder": "Prøv kamphansker, junior, polstrede bukser…",
+    "noResults": "Ingen keeperutstyr funnet ennå. Prøv hansker, junior, bukser eller kamp."
+  },
+  "common": {
+    "from": "Fra",
+    "addToKit": "Legg til i sett",
+    "shopGloves": "Kjøp hansker",
+    "findMyGlove": "Finn hansken min",
+    "readyCta": "Klar til å eie ditt felt?",
+    "size": "Størrelse",
+    "selectSize": "Velg størrelse",
+    "ownTheBox": "Eie ditt felt."
+  },
+  "cart": {
+    "emptyTitle": "Handlekurven din er tom",
+    "emptySub": "Bygg ditt perfekte keeperoppsett ved å legge til hansker, kampklær og treningstilbehør.",
+    "browseAll": "Bla gjennom alt utstyr",
+    "yourSelection": "Ditt utvalg",
+    "summary": "Oppsummering",
+    "subtotal": "Delsum",
+    "shipping": "Frakt",
+    "total": "Totalt",
+    "checkout": "Gå til kassen",
+    "freeDelivery": "Gratis frakt på bestillinger over {amount}. Enkel retur innen 30 dager.",
+    "remove": "Fjern vare",
+    "added": "lagt til i sett",
+    "loading": "Laster utvalget ditt..."
+  },
+  "checkout": {
+    "title": "Sikker betaling",
+    "intro": "Skriv inn leveringsdetaljene dine nedenfor. Ingen kort kreves for denne demobestillingen.",
+    "firstName": "Fornavn",
+    "lastName": "Etternavn",
+    "email": "E-postadresse",
+    "address": "Leveringsadresse",
+    "city": "By",
+    "zip": "Postnummer",
+    "complete": "Fullfør bestilling",
+    "placedTitle": "Bestilling lagt inn!",
+    "placedText": "Takk for bestillingen. Keeperutstyret ditt er sikret.",
+    "close": "Lukk",
+    "redirecting": "Omdirigerer til sikker betaling…"
+  },
+  "footer": {
+    "stayLockedIn": "Hold deg oppdatert",
+    "shop": "Butikk",
+    "learn": "Lær",
+    "brand": "Merke",
+    "newsletterCopy": "Meld deg på for drops, keepertips og produktnyheter.",
+    "emailPlaceholder": "Skriv inn e-posten din",
+    "signUp": "Meld på",
+    "tagline": "Bygget annerledes. Skapt for keepere. Skapt for å vinne.",
+    "rights": "© 2026 S1GK. Alle rettigheter forbeholdt.",
+    "privacy": "Personvern",
+    "terms": "Vilkår",
+    "sitemap": "Nettstedskart"
+  },
+  "toast": {
+    "subscribed": "Påmeldt",
+    "submitted": "Forespørsel sendt",
+    "unlocked": "låst opp",
+    "loaded": "lastet"
+  },
+  "meta": {
+    "homeTitle": "S1GK Keeperhansker, Kampklær & Keeper-Utstyr | Own The Box",
+    "homeDesc": "Premium keeperutstyr: kamp-, trenings- og juniorhansker, kampklær, polstret sett og tilbehør."
+  }
+}

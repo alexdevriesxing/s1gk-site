@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "gloves": "Gants",
+    "matchwear": "Tenue de match",
+    "training": "Entraînement",
+    "accessories": "Accessoires",
+    "junior": "Junior",
+    "guides": "Guides",
+    "about": "À propos",
+    "contact": "Contact",
+    "shopAll": "Tout voir"
+  },
+  "a11y": {
+    "search": "Rechercher sur le site",
+    "account": "Compte",
+    "cart": "Panier",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "closeSearch": "Fermer la recherche",
+    "language": "Choisir la langue"
+  },
+  "topbar": {
+    "tagline": "Conçu pour les gardiens. Fait pour gagner."
+  },
+  "hero": {
+    "titleA": "Conçu Différemment",
+    "titleB": "Pour Les Gardiens",
+    "lead": "Équipement de gardien premium : gants de match, gants d’entraînement, gants junior, tenue de match, kit d’entraînement rembourré et accessoires — pensés pour aller vite et se sentir élite sur chaque terrain.",
+    "shopGloves": "Acheter des gants",
+    "findGlove": "Trouvez votre gant",
+    "trustedBy": "Adopté par les gardiens",
+    "products": "produits",
+    "guides": "guides gardien"
+  },
+  "console": {
+    "title": "Mode Gardien",
+    "live": "en direct",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "degrés de protection",
+    "compromises": "compromis",
+    "potential": "potentiel"
+  },
+  "modes": {
+    "academy": {
+      "title": "Commencez ici. Montez d’un cran.",
+      "text": "Gants junior, confort d’entraînement et packs adaptés aux parents pour les jeunes gardiens.",
+      "cta": "Découvrir Academy"
+    },
+    "match": {
+      "title": "Jour de match. Dominez.",
+      "text": "Gants de match, maillots manches longues et kit prêt pour l’équipe au football hebdomadaire.",
+      "cta": "Découvrir Match"
+    },
+    "elite": {
+      "title": "Aucune excuse. Que des résultats.",
+      "text": "Protection rembourrée, couches de compression et accessoires premium pour les séances intenses.",
+      "cta": "Découvrir Elite"
+    }
+  },
+  "featured": {
+    "kicker": "Équipement en vedette",
+    "titleA": "Commencez par les",
+    "titleB": "faiseurs d’arrêts",
+    "copy": "Des gants conçus pour le grip, la protection et la confiance. Complétez le kit avec la tenue de match, le matériel d’entraînement et les accessoires.",
+    "prev": "Produits précédents",
+    "next": "Produits suivants"
+  },
+  "values": {
+    "grip": "Grip",
+    "gripText": "Contrôle maximal du premier contact au dernier arrêt.",
+    "protect": "Protéger",
+    "protectText": "Conçu pour les plongeons, les contacts, le synthétique et la répétition.",
+    "perform": "Performer",
+    "performText": "Rapide, précis, léger et sûr de soi le jour du match.",
+    "focus": "Focus",
+    "focusText": "Concentrez-vous, isolez-vous et régnez sur votre surface."
+  },
+  "lab": {
+    "kicker": "Labo de gants interactif",
+    "title": "Choisissez votre style d’arrêt.",
+    "copy": "Trouvez la coupe adaptée à votre niveau. Choisissez votre profil de gardien et nous vous associerons à l’équipement parfait.",
+    "level": "Niveau de gardien",
+    "levelBeginner": "Débutant / academy",
+    "levelMatch": "Joueur de match hebdomadaire",
+    "levelElite": "Entraînement elite",
+    "age": "Tranche d’âge",
+    "ageJunior": "Junior",
+    "ageAdult": "Ado / adulte",
+    "use": "Usage principal",
+    "useTraining": "Séances d’entraînement",
+    "useMatch": "Jour de match",
+    "useTurf": "Synthétique / forte répétition",
+    "submit": "Révéler mon gant"
+  },
+  "essentials": {
+    "kicker": "Essentiels",
+    "titleA": "Conçu pour",
+    "titleB": "chaque arrêt",
+    "copy": "Complétez votre équipement de gardien avec protection rembourrée, sous-couches, chaussettes, sacs et accessoires essentiels."
+  },
+  "kit": {
+    "kicker": "Micro-commerce",
+    "title": "Composez votre kit de gardien.",
+    "copy": "Composez votre kit de gardien parfait. Combinez gants, tenue de match et accessoires pour créer un pack adapté à votre jeu.",
+    "starter": "Débutant",
+    "match": "Jour de match",
+    "elite": "Elite",
+    "estimated": "Pack estimé",
+    "build": "Composer ce kit"
+  },
+  "levels": {
+    "kicker": "Acheter par niveau",
+    "title": "Academy. Match. Elite.",
+    "copy": "Trois niveaux clairs rendent la gamme facile à comprendre pour les parents, les équipes et les gardiens sérieux.",
+    "academyTitle": "Commencez ici. Montez d’un cran.",
+    "academyText": "Gants et équipement d’entraînement adaptés aux juniors.",
+    "matchTitle": "Jour de match. Dominez.",
+    "matchText": "Gants de match, maillots et kit prêt pour l’équipe.",
+    "eliteTitle": "Aucune excuse. Que des résultats.",
+    "eliteText": "Couches techniques, protections et accessoires premium."
+  },
+  "club": {
+    "kicker": "Moteur communautaire",
+    "titleA": "Rejoignez le",
+    "titleB": "Keepers Club",
+    "copy": "Plus que de l’équipement. Un mouvement pour les jeunes gardiens qui s’entraînent autrement, plongent plus fort et veulent être le joueur en qui tout le monde a confiance quand le match devient chaotique.",
+    "perk1": "Drops exclusifs",
+    "perk2": "Conseils d’entraînement",
+    "perk3": "Réductions membres",
+    "perk4": "Accès anticipé",
+    "join": "Adhérer gratuitement"
+  },
+  "search": {
+    "label": "Rechercher S1GK",
+    "placeholder": "Essayez gants de match, junior, pantalon rembourré…",
+    "noResults": "Aucun équipement de gardien trouvé. Essayez gants, junior, pantalon ou match."
+  },
+  "common": {
+    "from": "À partir de",
+    "addToKit": "Ajouter au kit",
+    "shopGloves": "Acheter des gants",
+    "findMyGlove": "Trouver mon gant",
+    "readyCta": "Prêt à régner sur votre surface ?",
+    "size": "Taille",
+    "selectSize": "Choisir la taille",
+    "ownTheBox": "Régnez sur votre surface."
+  },
+  "cart": {
+    "emptyTitle": "Votre panier est vide",
+    "emptySub": "Composez votre équipement de gardien parfait en ajoutant gants, tenue de match et accessoires d’entraînement.",
+    "browseAll": "Voir tout l’équipement",
+    "yourSelection": "Votre sélection",
+    "summary": "Récapitulatif",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "total": "Total",
+    "checkout": "Passer au paiement",
+    "freeDelivery": "Livraison gratuite dès {amount} d’achat. Retours faciles sous 30 jours.",
+    "remove": "Retirer l’article",
+    "added": "ajouté au kit",
+    "loading": "Chargement de votre sélection..."
+  },
+  "checkout": {
+    "title": "Paiement sécurisé",
+    "intro": "Saisissez vos coordonnées de livraison ci-dessous. Aucune carte n’est requise pour cette commande de démonstration.",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Adresse e-mail",
+    "address": "Adresse de livraison",
+    "city": "Ville",
+    "zip": "Code postal",
+    "complete": "Finaliser la commande",
+    "placedTitle": "Commande passée !",
+    "placedText": "Merci pour votre commande. Votre équipement de gardien est réservé.",
+    "close": "Fermer",
+    "redirecting": "Redirection vers le paiement sécurisé…"
+  },
+  "footer": {
+    "stayLockedIn": "Restez connecté",
+    "shop": "Boutique",
+    "learn": "Apprendre",
+    "brand": "Marque",
+    "newsletterCopy": "Inscrivez-vous pour les drops, les conseils gardien et les nouveautés.",
+    "emailPlaceholder": "Saisissez votre e-mail",
+    "signUp": "S’inscrire",
+    "tagline": "Conçu différemment. Fait pour les gardiens. Fait pour gagner.",
+    "rights": "© 2026 S1GK. Tous droits réservés.",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "sitemap": "Plan du site"
+  },
+  "toast": {
+    "subscribed": "Inscrit",
+    "submitted": "Demande envoyée avec succès",
+    "unlocked": "débloqué",
+    "loaded": "chargé"
+  },
+  "meta": {
+    "homeTitle": "S1GK Gants de Gardien, Tenue & Équipement Keeper | Own The Box",
+    "homeDesc": "Équipement de gardien premium : gants de match, d’entraînement et junior, tenue de gardien, kit rembourré et accessoires."
+  }
+}

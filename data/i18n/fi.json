@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Etusivu",
+    "gloves": "Hanskat",
+    "matchwear": "Pelivaatteet",
+    "training": "Harjoittelu",
+    "accessories": "Tarvikkeet",
+    "junior": "Junior",
+    "guides": "Oppaat",
+    "about": "Tietoa",
+    "contact": "Yhteystiedot",
+    "shopAll": "Näytä kaikki"
+  },
+  "a11y": {
+    "search": "Hae sivustolta",
+    "account": "Tili",
+    "cart": "Ostoskori",
+    "openMenu": "Avaa valikko",
+    "closeMenu": "Sulje valikko",
+    "closeSearch": "Sulje haku",
+    "language": "Valitse kieli"
+  },
+  "topbar": {
+    "tagline": "Tehty maalivahdeille. Rakennettu voittamaan."
+  },
+  "hero": {
+    "titleA": "Rakennettu Erilaiseksi",
+    "titleB": "Maalivahdeille",
+    "lead": "Premium-maalivahtivarusteet: pelihanskat, harjoitushanskat, junior-hanskat, pelivaatteet, pehmustettu harjoitusasu ja tarvikkeet — suunniteltu näyttämään nopeilta ja tuntumaan eliitiltä jokaisella kentällä.",
+    "shopGloves": "Osta hanskoja",
+    "findGlove": "Löydä hanskasi",
+    "trustedBy": "Maalivahtien luottama",
+    "products": "tuotetta",
+    "guides": "maalivahtiopasta"
+  },
+  "console": {
+    "title": "Keeper-tila",
+    "live": "live",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "asteen suoja",
+    "compromises": "kompromissia",
+    "potential": "potentiaali"
+  },
+  "modes": {
+    "academy": {
+      "title": "Aloita tästä. Nosta tasoa.",
+      "text": "Junior-hanskat, harjoitusmukavuus ja vanhemmille sopivat paketit nuorille maalivahdeille.",
+      "cta": "Tutustu Academyyn"
+    },
+    "match": {
+      "title": "Pelipäivä. Ota se haltuun.",
+      "text": "Pelihanskat, pitkähihaiset paidat ja joukkuevalmis asu viikoittaiseen jalkapalloon.",
+      "cta": "Tutustu Matchiin"
+    },
+    "elite": {
+      "title": "Ei tekosyitä. Vain tuloksia.",
+      "text": "Pehmustettu suoja, kompressiokerrokset ja premium-tarvikkeet kovatehoisiin harjoituksiin.",
+      "cta": "Tutustu Eliteen"
+    }
+  },
+  "featured": {
+    "kicker": "Esillä olevat varusteet",
+    "titleA": "Aloita",
+    "titleB": "torjuntojen tekijöistä",
+    "copy": "Hanskat rakennettu otteeseen, suojaan ja itseluottamukseen. Täydennä asu pelivaatteilla, harjoitusvarusteilla ja tarvikkeilla.",
+    "prev": "Edelliset tuotteet",
+    "next": "Seuraavat tuotteet"
+  },
+  "values": {
+    "grip": "Ote",
+    "gripText": "Maksimaalinen hallinta ensikosketuksesta viimeiseen torjuntaan.",
+    "protect": "Suojaa",
+    "protectText": "Rakennettu sukelluksiin, kontaktiin, tekonurmeen ja toistoon.",
+    "perform": "Suorita",
+    "performText": "Nopea, terävä, kevyt ja itsevarma pelipäivänä.",
+    "focus": "Keskity",
+    "focusText": "Keskity, sulje kaikki pois ja hallitse aluettasi."
+  },
+  "lab": {
+    "kicker": "Interaktiivinen hanskalaboratorio",
+    "title": "Valitse torjuntatyylisi.",
+    "copy": "Löydä oikea istuvuus tasollesi. Valitse maalivahtiprofiilisi, niin yhdistämme sinut täydellisiin varusteisiin.",
+    "level": "Maalivahtitaso",
+    "levelBeginner": "Aloittelija / academy",
+    "levelMatch": "Viikoittainen pelaaja",
+    "levelElite": "Elite-harjoittelu",
+    "age": "Ikäryhmä",
+    "ageJunior": "Junior",
+    "ageAdult": "Teini / aikuinen",
+    "use": "Pääkäyttö",
+    "useTraining": "Harjoitukset",
+    "useMatch": "Pelipäivä",
+    "useTurf": "Tekonurmi / paljon toistoa",
+    "submit": "Paljasta hanskani"
+  },
+  "essentials": {
+    "kicker": "Perusvarusteet",
+    "titleA": "Rakennettu",
+    "titleB": "jokaiseen torjuntaan",
+    "copy": "Täydennä maalivahtikokoonpanosi pehmustetulla suojalla, aluskerroksilla, sukilla, laukuilla ja olennaisilla tarvikkeilla."
+  },
+  "kit": {
+    "kicker": "Mikrokauppa",
+    "title": "Rakenna maalivahtiasusi.",
+    "copy": "Rakenna täydellinen maalivahtiasusi. Yhdistele hanskoja, pelivaatteita ja tarvikkeita luodaksesi pelityyliisi sopivan paketin.",
+    "starter": "Starter",
+    "match": "Pelipäivä",
+    "elite": "Elite",
+    "estimated": "Arvioitu paketti",
+    "build": "Rakenna tämä asu"
+  },
+  "levels": {
+    "kicker": "Osta tason mukaan",
+    "title": "Academy. Match. Elite.",
+    "copy": "Kolme selkeää tasoa tekevät valikoimasta helposti ymmärrettävän vanhemmille, joukkueille ja vakaville maalivahdeille.",
+    "academyTitle": "Aloita tästä. Nosta tasoa.",
+    "academyText": "Junioreille sopivat hanskat ja harjoitusvarusteet.",
+    "matchTitle": "Pelipäivä. Ota se haltuun.",
+    "matchText": "Pelihanskat, paidat ja joukkuevalmis asu.",
+    "eliteTitle": "Ei tekosyitä. Vain tuloksia.",
+    "eliteText": "Tekniset kerrokset, pehmusteet ja premium-tarvikkeet."
+  },
+  "club": {
+    "kicker": "Yhteisömoottori",
+    "titleA": "Liity",
+    "titleB": "Keepers Clubiin",
+    "copy": "Enemmän kuin varusteita. Liike nuorille maalivahdeille, jotka harjoittelevat eri tavalla, sukeltavat kovempaa ja haluavat olla pelaaja, johon kaikki luottavat, kun peli muuttuu kaoottiseksi.",
+    "perk1": "Eksklusiiviset dropit",
+    "perk2": "Harjoitusvinkit",
+    "perk3": "Jäsenalennukset",
+    "perk4": "Varhainen pääsy",
+    "join": "Liity ilmaiseksi"
+  },
+  "search": {
+    "label": "Hae S1GK",
+    "placeholder": "Kokeile pelihanskat, junior, pehmustetut housut…",
+    "noResults": "Maalivahtivarusteita ei löytynyt vielä. Kokeile hanskat, junior, housut tai peli."
+  },
+  "common": {
+    "from": "Alkaen",
+    "addToKit": "Lisää asuun",
+    "shopGloves": "Osta hanskoja",
+    "findMyGlove": "Löydä hanskani",
+    "readyCta": "Valmis hallitsemaan aluettasi?",
+    "size": "Koko",
+    "selectSize": "Valitse koko",
+    "ownTheBox": "Hallitse aluettasi."
+  },
+  "cart": {
+    "emptyTitle": "Ostoskorisi on tyhjä",
+    "emptySub": "Rakenna täydellinen maalivahtikokoonpanosi lisäämällä hanskoja, pelivaatteita ja harjoitustarvikkeita.",
+    "browseAll": "Selaa kaikkia varusteita",
+    "yourSelection": "Valintasi",
+    "summary": "Yhteenveto",
+    "subtotal": "Välisumma",
+    "shipping": "Toimitus",
+    "total": "Yhteensä",
+    "checkout": "Siirry kassalle",
+    "freeDelivery": "Ilmainen toimitus yli {amount} tilauksissa. Helpot palautukset 30 päivän sisällä.",
+    "remove": "Poista tuote",
+    "added": "lisätty asuun",
+    "loading": "Ladataan valintaasi..."
+  },
+  "checkout": {
+    "title": "Turvallinen kassa",
+    "intro": "Syötä toimitustietosi alle. Tähän demotilaukseen ei tarvita korttia.",
+    "firstName": "Etunimi",
+    "lastName": "Sukunimi",
+    "email": "Sähköpostiosoite",
+    "address": "Toimitusosoite",
+    "city": "Kaupunki",
+    "zip": "Postinumero",
+    "complete": "Viimeistele tilaus",
+    "placedTitle": "Tilaus tehty!",
+    "placedText": "Kiitos tilauksestasi. Maalivahtivarusteesi on varattu.",
+    "close": "Sulje",
+    "redirecting": "Ohjataan turvalliseen maksuun…"
+  },
+  "footer": {
+    "stayLockedIn": "Pysy mukana",
+    "shop": "Kauppa",
+    "learn": "Opi",
+    "brand": "Brändi",
+    "newsletterCopy": "Tilaa dropit, maalivahtivinkit ja tuoteuutiset.",
+    "emailPlaceholder": "Syötä sähköpostisi",
+    "signUp": "Tilaa",
+    "tagline": "Rakennettu erilaiseksi. Tehty maalivahdeille. Rakennettu voittamaan.",
+    "rights": "© 2026 S1GK. Kaikki oikeudet pidätetään.",
+    "privacy": "Tietosuoja",
+    "terms": "Ehdot",
+    "sitemap": "Sivukartta"
+  },
+  "toast": {
+    "subscribed": "Tilattu",
+    "submitted": "Pyyntö lähetetty",
+    "unlocked": "avattu",
+    "loaded": "ladattu"
+  },
+  "meta": {
+    "homeTitle": "S1GK Maalivahdin Hanskat, Pelivaatteet & Varusteet | Own The Box",
+    "homeDesc": "Premium-maalivahtivarusteet: peli-, harjoitus- ja junior-hanskat, pelivaatteet, pehmustettu setti ja tarvikkeet."
+  }
+}

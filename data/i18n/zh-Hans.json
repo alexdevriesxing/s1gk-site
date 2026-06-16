@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "首页",
+    "gloves": "手套",
+    "matchwear": "比赛服",
+    "training": "训练",
+    "accessories": "配件",
+    "junior": "青少年",
+    "guides": "指南",
+    "about": "关于",
+    "contact": "联系",
+    "shopAll": "查看全部"
+  },
+  "a11y": {
+    "search": "搜索网站",
+    "account": "账户",
+    "cart": "购物车",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "closeSearch": "关闭搜索",
+    "language": "选择语言"
+  },
+  "topbar": {
+    "tagline": "为门将打造。为胜利而生。"
+  },
+  "hero": {
+    "titleA": "与众不同",
+    "titleB": "专为门将",
+    "lead": "顶级门将装备：比赛手套、训练手套、青少年手套、比赛服、加垫训练服与配件——设计让你在每片球场上看起来迅捷、感觉顶尖。",
+    "shopGloves": "选购手套",
+    "findGlove": "找到你的手套",
+    "trustedBy": "门将信赖之选",
+    "products": "件产品",
+    "guides": "份门将指南"
+  },
+  "console": {
+    "title": "门将模式",
+    "live": "实时",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "度全方位保护",
+    "compromises": "妥协",
+    "potential": "潜力"
+  },
+  "modes": {
+    "academy": {
+      "title": "从这里开始，更上一层楼。",
+      "text": "青少年手套、训练舒适感与适合家长的组合，专为年轻门将打造。",
+      "cta": "探索 Academy"
+    },
+    "match": {
+      "title": "比赛日，掌控全场。",
+      "text": "比赛手套、长袖球衣与球队就绪套装，适合每周的足球赛。",
+      "cta": "探索 Match"
+    },
+    "elite": {
+      "title": "没有借口，只有结果。",
+      "text": "加垫保护、压缩层与顶级配件，专为高强度训练打造。",
+      "cta": "探索 Elite"
+    }
+  },
+  "featured": {
+    "kicker": "精选装备",
+    "titleA": "从这些开始",
+    "titleB": "扑救缔造者",
+    "copy": "为抓握、保护与自信而打造的手套。用比赛服、训练装备与配件完成整套装备。",
+    "prev": "上一个产品",
+    "next": "下一个产品"
+  },
+  "values": {
+    "grip": "抓握",
+    "gripText": "从第一次触球到最后一次扑救的极致掌控。",
+    "protect": "保护",
+    "protectText": "为扑救、碰撞、人工草皮与反复训练而打造。",
+    "perform": "表现",
+    "performText": "快速、锐利、轻盈，比赛日自信满满。",
+    "focus": "专注",
+    "focusText": "锁定、屏除干扰，掌控你的禁区。"
+  },
+  "lab": {
+    "kicker": "互动手套实验室",
+    "title": "选择你的扑救风格。",
+    "copy": "找到适合你水平的版型。选择你的门将档案，我们将为你配对完美装备。",
+    "level": "门将水平",
+    "levelBeginner": "初学者 / academy",
+    "levelMatch": "每周比赛球员",
+    "levelElite": "精英训练",
+    "age": "年龄组别",
+    "ageJunior": "青少年",
+    "ageAdult": "青少年 / 成人",
+    "use": "主要用途",
+    "useTraining": "训练课程",
+    "useMatch": "比赛日",
+    "useTurf": "人工草皮 / 高反复",
+    "submit": "揭晓我的手套"
+  },
+  "essentials": {
+    "kicker": "必备",
+    "titleA": "为",
+    "titleB": "每次扑救而打造",
+    "copy": "用加垫保护、底层衣、袜子、背包与必备配件完成你的门将配置。"
+  },
+  "kit": {
+    "kicker": "微型商务",
+    "title": "打造你的门将套装。",
+    "copy": "打造你的完美门将套装。搭配手套、比赛服与配件，创造适合你比赛风格的组合。",
+    "starter": "入门",
+    "match": "比赛日",
+    "elite": "Elite",
+    "estimated": "预估组合",
+    "build": "打造此套装"
+  },
+  "levels": {
+    "kicker": "按水平选购",
+    "title": "Academy。Match。Elite。",
+    "copy": "三个清晰的等级，让家长、球队与认真的门将都能轻松理解整个系列。",
+    "academyTitle": "从这里开始，更上一层楼。",
+    "academyText": "适合青少年的手套与训练装备。",
+    "matchTitle": "比赛日，掌控全场。",
+    "matchText": "比赛手套、球衣与球队就绪套装。",
+    "eliteTitle": "没有借口，只有结果。",
+    "eliteText": "技术层、护垫与顶级配件。"
+  },
+  "club": {
+    "kicker": "社群引擎",
+    "titleA": "加入",
+    "titleB": "Keepers Club",
+    "copy": "不只是装备。这是一场运动，献给以不同方式训练、扑得更狠、想成为比赛混乱时众人信赖球员的年轻门将。",
+    "perk1": "独家新品",
+    "perk2": "训练技巧",
+    "perk3": "会员折扣",
+    "perk4": "抢先体验",
+    "join": "免费加入"
+  },
+  "search": {
+    "label": "搜索 S1GK",
+    "placeholder": "试试比赛手套、青少年、加垫长裤…",
+    "noResults": "尚未找到门将装备。试试手套、青少年、长裤或比赛。"
+  },
+  "common": {
+    "from": "起",
+    "addToKit": "加入套装",
+    "shopGloves": "选购手套",
+    "findMyGlove": "找到我的手套",
+    "readyCta": "准备好掌控你的禁区了吗？",
+    "size": "尺寸",
+    "selectSize": "选择尺寸",
+    "ownTheBox": "掌控你的禁区。"
+  },
+  "cart": {
+    "emptyTitle": "你的购物车是空的",
+    "emptySub": "加入手套、比赛服与训练配件，打造你的完美门将配置。",
+    "browseAll": "浏览所有装备",
+    "yourSelection": "你的选择",
+    "summary": "摘要",
+    "subtotal": "小计",
+    "shipping": "运费",
+    "total": "总计",
+    "checkout": "前往结账",
+    "freeDelivery": "订单满 {amount} 免运。30 天内轻松退货。",
+    "remove": "移除商品",
+    "added": "已加入套装",
+    "loading": "正在加载你的选择…"
+  },
+  "checkout": {
+    "title": "安全结账",
+    "intro": "请在下方输入你的收货信息。此演示订单无需付款卡。",
+    "firstName": "名字",
+    "lastName": "姓氏",
+    "email": "电子邮件",
+    "address": "收货地址",
+    "city": "城市",
+    "zip": "邮政编码",
+    "complete": "完成订单",
+    "placedTitle": "订单已提交！",
+    "placedText": "感谢你的订购。你的门将装备已锁定。",
+    "close": "关闭",
+    "redirecting": "正在跳转到安全付款…"
+  },
+  "footer": {
+    "stayLockedIn": "保持锁定",
+    "shop": "商店",
+    "learn": "学习",
+    "brand": "品牌",
+    "newsletterCopy": "订阅以获取新品、门将技巧与产品更新。",
+    "emailPlaceholder": "输入你的电子邮件",
+    "signUp": "订阅",
+    "tagline": "与众不同。为门将打造。为胜利而生。",
+    "rights": "© 2026 S1GK。版权所有。",
+    "privacy": "隐私",
+    "terms": "条款",
+    "sitemap": "网站地图"
+  },
+  "toast": {
+    "subscribed": "已订阅",
+    "submitted": "请求已成功提交",
+    "unlocked": "已解锁",
+    "loaded": "已加载"
+  },
+  "meta": {
+    "homeTitle": "S1GK 门将手套、比赛服与门将装备 | Own The Box",
+    "homeDesc": "顶级门将装备：比赛、训练与青少年手套、比赛服、加垫套装与配件。为门将打造。"
+  }
+}

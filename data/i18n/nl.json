@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Home",
+    "gloves": "Handschoenen",
+    "matchwear": "Wedstrijdkleding",
+    "training": "Training",
+    "accessories": "Accessoires",
+    "junior": "Junior",
+    "guides": "Gidsen",
+    "about": "Over ons",
+    "contact": "Contact",
+    "shopAll": "Alles bekijken"
+  },
+  "a11y": {
+    "search": "Zoek op site",
+    "account": "Account",
+    "cart": "Winkelwagen",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten",
+    "closeSearch": "Zoeken sluiten",
+    "language": "Kies taal"
+  },
+  "topbar": {
+    "tagline": "Gemaakt voor keepers. Gebouwd om te winnen."
+  },
+  "hero": {
+    "titleA": "Anders Gebouwd",
+    "titleB": "Voor Keepers",
+    "lead": "Premium keepersuitrusting: wedstrijdhandschoenen, trainingshandschoenen, juniorhandschoenen, wedstrijdkleding, gevoerde trainingskit en accessoires — ontworpen om snel te ogen en elite aan te voelen op elk veld.",
+    "shopGloves": "Handschoenen kopen",
+    "findGlove": "Vind jouw handschoen",
+    "trustedBy": "Vertrouwd door keepers",
+    "products": "producten",
+    "guides": "keepersgidsen"
+  },
+  "console": {
+    "title": "Keeper Mode",
+    "live": "live",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "graden bescherming",
+    "compromises": "compromissen",
+    "potential": "potentieel"
+  },
+  "modes": {
+    "academy": {
+      "title": "Begin hier. Word beter.",
+      "text": "Juniorhandschoenen, trainingscomfort en ouder-vriendelijke bundels voor jonge keepers.",
+      "cta": "Ontdek Academy"
+    },
+    "match": {
+      "title": "Wedstrijddag. Pak het.",
+      "text": "Wedstrijdhandschoenen, shirts met lange mouw en teamklare kit voor het wekelijkse voetbal.",
+      "cta": "Ontdek Match"
+    },
+    "elite": {
+      "title": "Geen excuses. Alleen resultaat.",
+      "text": "Gevoerde bescherming, compressielagen en premium accessoires voor intensieve sessies.",
+      "cta": "Ontdek Elite"
+    }
+  },
+  "featured": {
+    "kicker": "Uitgelichte uitrusting",
+    "titleA": "Begin met de",
+    "titleB": "redding-makers",
+    "copy": "Handschoenen gebouwd voor grip, bescherming en vertrouwen. Maak de kit compleet met wedstrijdkleding, trainingsgear en accessoires.",
+    "prev": "Vorige producten",
+    "next": "Volgende producten"
+  },
+  "values": {
+    "grip": "Grip",
+    "gripText": "Maximale controle van eerste aanraking tot laatste redding.",
+    "protect": "Bescherm",
+    "protectText": "Gebouwd voor duiken, contact, kunstgras en herhaling.",
+    "perform": "Presteer",
+    "performText": "Snel, scherp, licht en zelfverzekerd op wedstrijddag.",
+    "focus": "Focus",
+    "focusText": "Concentreer je, sluit alles buiten en heers in je doelgebied."
+  },
+  "lab": {
+    "kicker": "Interactief handschoenlab",
+    "title": "Kies je reddingsstijl.",
+    "copy": "Vind de juiste pasvorm voor jouw niveau. Kies je keepersprofiel en wij matchen je met de perfecte gear.",
+    "level": "Keepersniveau",
+    "levelBeginner": "Beginner / academy",
+    "levelMatch": "Wekelijkse wedstrijdspeler",
+    "levelElite": "Elite training",
+    "age": "Leeftijdsgroep",
+    "ageJunior": "Junior",
+    "ageAdult": "Tiener / volwassen",
+    "use": "Hoofdgebruik",
+    "useTraining": "Trainingssessies",
+    "useMatch": "Wedstrijddag",
+    "useTurf": "Kunstgras / veel herhaling",
+    "submit": "Onthul mijn handschoen"
+  },
+  "essentials": {
+    "kicker": "Essentials",
+    "titleA": "Gebouwd voor",
+    "titleB": "elke redding",
+    "copy": "Maak je keepersopstelling compleet met gevoerde bescherming, baselayers, sokken, tassen en essentiële accessoires."
+  },
+  "kit": {
+    "kicker": "Micro-commerce",
+    "title": "Stel je keeperskit samen.",
+    "copy": "Stel je perfecte keeperskit samen. Combineer handschoenen, wedstrijdkleding en accessoires tot een bundel die bij jouw spel past.",
+    "starter": "Starter",
+    "match": "Wedstrijddag",
+    "elite": "Elite",
+    "estimated": "Geschatte bundel",
+    "build": "Stel deze kit samen"
+  },
+  "levels": {
+    "kicker": "Shop per niveau",
+    "title": "Academy. Match. Elite.",
+    "copy": "Drie duidelijke niveaus maken het assortiment makkelijk te begrijpen voor ouders, teams en serieuze keepers.",
+    "academyTitle": "Begin hier. Word beter.",
+    "academyText": "Junior-vriendelijke handschoenen en trainingsgear.",
+    "matchTitle": "Wedstrijddag. Pak het.",
+    "matchText": "Wedstrijdhandschoenen, shirts en teamklare kit.",
+    "eliteTitle": "Geen excuses. Alleen resultaat.",
+    "eliteText": "Technische lagen, pads en premium accessoires."
+  },
+  "club": {
+    "kicker": "Community-motor",
+    "titleA": "Word lid van de",
+    "titleB": "Keepers Club",
+    "copy": "Meer dan gear. Een beweging voor jonge keepers die anders trainen, harder duiken en de speler willen zijn die iedereen vertrouwt als de wedstrijd chaotisch wordt.",
+    "perk1": "Exclusieve drops",
+    "perk2": "Trainingstips",
+    "perk3": "Ledenkortingen",
+    "perk4": "Vroege toegang",
+    "join": "Gratis lid worden"
+  },
+  "search": {
+    "label": "Zoek S1GK",
+    "placeholder": "Probeer wedstrijdhandschoenen, junior, gevoerde broek…",
+    "noResults": "Nog geen keepersgear gevonden. Probeer handschoenen, junior, broek of match."
+  },
+  "common": {
+    "from": "Vanaf",
+    "addToKit": "Toevoegen aan kit",
+    "shopGloves": "Handschoenen kopen",
+    "findMyGlove": "Vind mijn handschoen",
+    "readyCta": "Klaar om je doelgebied te heersen?",
+    "size": "Maat",
+    "selectSize": "Kies maat",
+    "ownTheBox": "Heers in je doelgebied."
+  },
+  "cart": {
+    "emptyTitle": "Je winkelwagen is leeg",
+    "emptySub": "Stel je perfecte keepersopstelling samen door handschoenen, wedstrijdkleding en trainingsaccessoires toe te voegen.",
+    "browseAll": "Bekijk alle gear",
+    "yourSelection": "Jouw selectie",
+    "summary": "Overzicht",
+    "subtotal": "Subtotaal",
+    "shipping": "Verzending",
+    "total": "Totaal",
+    "checkout": "Naar afrekenen",
+    "freeDelivery": "Gratis verzending bij bestellingen boven {amount}. Eenvoudig retourneren binnen 30 dagen.",
+    "remove": "Item verwijderen",
+    "added": "toegevoegd aan kit",
+    "loading": "Selectie laden..."
+  },
+  "checkout": {
+    "title": "Veilig afrekenen",
+    "intro": "Voer hieronder je verzendgegevens in. Voor deze demobestelling is geen betaalkaart nodig.",
+    "firstName": "Voornaam",
+    "lastName": "Achternaam",
+    "email": "E-mailadres",
+    "address": "Verzendadres",
+    "city": "Plaats",
+    "zip": "Postcode",
+    "complete": "Bestelling voltooien",
+    "placedTitle": "Bestelling geplaatst!",
+    "placedText": "Bedankt voor je bestelling. Je keepersgear is vastgelegd.",
+    "close": "Sluiten",
+    "redirecting": "Doorverwijzen naar veilige betaling…"
+  },
+  "footer": {
+    "stayLockedIn": "Blijf op de hoogte",
+    "shop": "Shop",
+    "learn": "Leer",
+    "brand": "Merk",
+    "newsletterCopy": "Meld je aan voor drops, keeperstips en productupdates.",
+    "emailPlaceholder": "Voer je e-mail in",
+    "signUp": "Aanmelden",
+    "tagline": "Anders gebouwd. Gemaakt voor keepers. Gebouwd om te winnen.",
+    "rights": "© 2026 S1GK. Alle rechten voorbehouden.",
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "sitemap": "Sitemap"
+  },
+  "toast": {
+    "subscribed": "Aangemeld",
+    "submitted": "Aanvraag succesvol verzonden",
+    "unlocked": "ontgrendeld",
+    "loaded": "geladen"
+  },
+  "meta": {
+    "homeTitle": "S1GK Keepershandschoenen, Keeperskleding & Keepersgear | Own The Box",
+    "homeDesc": "Premium keepersgear: keepershandschoenen voor wedstrijd, training en junior, keeperskleding, gevoerde trainingskit en accessoires."
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Home",
+    "gloves": "Guanti",
+    "matchwear": "Abbigliamento gara",
+    "training": "Allenamento",
+    "accessories": "Accessori",
+    "junior": "Junior",
+    "guides": "Guide",
+    "about": "Chi siamo",
+    "contact": "Contatti",
+    "shopAll": "Vedi tutto"
+  },
+  "a11y": {
+    "search": "Cerca nel sito",
+    "account": "Account",
+    "cart": "Carrello",
+    "openMenu": "Apri menu",
+    "closeMenu": "Chiudi menu",
+    "closeSearch": "Chiudi ricerca",
+    "language": "Scegli lingua"
+  },
+  "topbar": {
+    "tagline": "Fatto per i portieri. Costruito per vincere."
+  },
+  "hero": {
+    "titleA": "Costruito Diverso",
+    "titleB": "Per I Portieri",
+    "lead": "Attrezzatura premium da portiere: guanti da gara, guanti da allenamento, guanti junior, abbigliamento gara, kit da allenamento imbottito e accessori — pensati per sembrare veloci e sentirsi elite su ogni campo.",
+    "shopGloves": "Acquista guanti",
+    "findGlove": "Trova il tuo guanto",
+    "trustedBy": "Scelto dai portieri",
+    "products": "prodotti",
+    "guides": "guide per portieri"
+  },
+  "console": {
+    "title": "Modalità Portiere",
+    "live": "live",
+    "academy": "Academy",
+    "match": "Match",
+    "elite": "Elite",
+    "protection": "gradi di protezione",
+    "compromises": "compromessi",
+    "potential": "potenziale"
+  },
+  "modes": {
+    "academy": {
+      "title": "Inizia qui. Sali di livello.",
+      "text": "Guanti junior, comfort di allenamento e bundle adatti ai genitori per giovani portieri.",
+      "cta": "Esplora Academy"
+    },
+    "match": {
+      "title": "Giorno della gara. Conquistalo.",
+      "text": "Guanti da gara, maglie a manica lunga e kit pronto per la squadra nel calcio settimanale.",
+      "cta": "Esplora Match"
+    },
+    "elite": {
+      "title": "Niente scuse. Solo risultati.",
+      "text": "Protezione imbottita, strati a compressione e accessori premium per sessioni ad alta intensità.",
+      "cta": "Esplora Elite"
+    }
+  },
+  "featured": {
+    "kicker": "Attrezzatura in evidenza",
+    "titleA": "Inizia con i",
+    "titleB": "creatori di parate",
+    "copy": "Guanti costruiti per presa, protezione e sicurezza. Completa il kit con abbigliamento gara, attrezzatura da allenamento e accessori.",
+    "prev": "Prodotti precedenti",
+    "next": "Prodotti successivi"
+  },
+  "values": {
+    "grip": "Presa",
+    "gripText": "Massimo controllo dal primo tocco all’ultima parata.",
+    "protect": "Proteggi",
+    "protectText": "Costruito per tuffi, contatto, sintetico e ripetizione.",
+    "perform": "Rendi",
+    "performText": "Veloce, preciso, leggero e sicuro nel giorno della gara.",
+    "focus": "Focus",
+    "focusText": "Concentrati, isola tutto e domina la tua area."
+  },
+  "lab": {
+    "kicker": "Laboratorio guanti interattivo",
+    "title": "Scegli il tuo stile di parata.",
+    "copy": "Trova la vestibilità giusta per il tuo livello. Scegli il tuo profilo da portiere e ti abbineremo all’attrezzatura perfetta.",
+    "level": "Livello portiere",
+    "levelBeginner": "Principiante / academy",
+    "levelMatch": "Giocatore settimanale",
+    "levelElite": "Allenamento elite",
+    "age": "Fascia d’età",
+    "ageJunior": "Junior",
+    "ageAdult": "Teen / adulto",
+    "use": "Uso principale",
+    "useTraining": "Sessioni di allenamento",
+    "useMatch": "Giorno della gara",
+    "useTurf": "Sintetico / alta ripetizione",
+    "submit": "Rivela il mio guanto"
+  },
+  "essentials": {
+    "kicker": "Essenziali",
+    "titleA": "Costruito per",
+    "titleB": "ogni parata",
+    "copy": "Completa il tuo setup da portiere con protezione imbottita, strati base, calze, borse e accessori essenziali."
+  },
+  "kit": {
+    "kicker": "Micro-commercio",
+    "title": "Componi il tuo kit da portiere.",
+    "copy": "Componi il tuo kit da portiere perfetto. Combina guanti, abbigliamento gara e accessori per creare un bundle adatto al tuo gioco.",
+    "starter": "Starter",
+    "match": "Giorno gara",
+    "elite": "Elite",
+    "estimated": "Bundle stimato",
+    "build": "Componi questo kit"
+  },
+  "levels": {
+    "kicker": "Acquista per livello",
+    "title": "Academy. Match. Elite.",
+    "copy": "Tre livelli chiari rendono la gamma facile da capire per genitori, squadre e portieri seri.",
+    "academyTitle": "Inizia qui. Sali di livello.",
+    "academyText": "Guanti e attrezzatura da allenamento adatti ai junior.",
+    "matchTitle": "Giorno della gara. Conquistalo.",
+    "matchText": "Guanti da gara, maglie e kit pronto per la squadra.",
+    "eliteTitle": "Niente scuse. Solo risultati.",
+    "eliteText": "Strati tecnici, protezioni e accessori premium."
+  },
+  "club": {
+    "kicker": "Motore della community",
+    "titleA": "Unisciti al",
+    "titleB": "Keepers Club",
+    "copy": "Più che attrezzatura. Un movimento per giovani portieri che si allenano diverso, si tuffano più forte e vogliono essere il giocatore di cui tutti si fidano quando la gara diventa caotica.",
+    "perk1": "Drop esclusivi",
+    "perk2": "Consigli di allenamento",
+    "perk3": "Sconti per i membri",
+    "perk4": "Accesso anticipato",
+    "join": "Iscriviti gratis"
+  },
+  "search": {
+    "label": "Cerca S1GK",
+    "placeholder": "Prova guanti da gara, junior, pantaloni imbottiti…",
+    "noResults": "Nessuna attrezzatura da portiere trovata. Prova guanti, junior, pantaloni o gara."
+  },
+  "common": {
+    "from": "Da",
+    "addToKit": "Aggiungi al kit",
+    "shopGloves": "Acquista guanti",
+    "findMyGlove": "Trova il mio guanto",
+    "readyCta": "Pronto a dominare la tua area?",
+    "size": "Taglia",
+    "selectSize": "Scegli taglia",
+    "ownTheBox": "Domina la tua area."
+  },
+  "cart": {
+    "emptyTitle": "Il tuo carrello è vuoto",
+    "emptySub": "Componi il tuo setup da portiere perfetto aggiungendo guanti, abbigliamento gara e accessori da allenamento.",
+    "browseAll": "Sfoglia tutta l’attrezzatura",
+    "yourSelection": "La tua selezione",
+    "summary": "Riepilogo",
+    "subtotal": "Subtotale",
+    "shipping": "Spedizione",
+    "total": "Totale",
+    "checkout": "Vai al pagamento",
+    "freeDelivery": "Spedizione gratuita per ordini sopra {amount}. Resi facili entro 30 giorni.",
+    "remove": "Rimuovi articolo",
+    "added": "aggiunto al kit",
+    "loading": "Caricamento della selezione..."
+  },
+  "checkout": {
+    "title": "Pagamento sicuro",
+    "intro": "Inserisci i tuoi dati di spedizione qui sotto. Nessuna carta è necessaria per questo ordine dimostrativo.",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "email": "Indirizzo email",
+    "address": "Indirizzo di spedizione",
+    "city": "Città",
+    "zip": "CAP",
+    "complete": "Completa ordine",
+    "placedTitle": "Ordine effettuato!",
+    "placedText": "Grazie per il tuo ordine. La tua attrezzatura da portiere è assicurata.",
+    "close": "Chiudi",
+    "redirecting": "Reindirizzamento al pagamento sicuro…"
+  },
+  "footer": {
+    "stayLockedIn": "Resta connesso",
+    "shop": "Shop",
+    "learn": "Impara",
+    "brand": "Brand",
+    "newsletterCopy": "Iscriviti per drop, consigli da portiere e novità sui prodotti.",
+    "emailPlaceholder": "Inserisci la tua email",
+    "signUp": "Iscriviti",
+    "tagline": "Costruito diverso. Fatto per i portieri. Costruito per vincere.",
+    "rights": "© 2026 S1GK. Tutti i diritti riservati.",
+    "privacy": "Privacy",
+    "terms": "Termini",
+    "sitemap": "Mappa del sito"
+  },
+  "toast": {
+    "subscribed": "Iscritto",
+    "submitted": "Richiesta inviata con successo",
+    "unlocked": "sbloccato",
+    "loaded": "caricato"
+  },
+  "meta": {
+    "homeTitle": "S1GK Guanti da Portiere, Abbigliamento & Attrezzatura | Own The Box",
+    "homeDesc": "Attrezzatura premium da portiere: guanti da gara, allenamento e junior, abbigliamento, kit imbottito e accessori."
+  }
+}
