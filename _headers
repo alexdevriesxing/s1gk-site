@@ -5,7 +5,10 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   Cross-Origin-Opener-Policy: same-origin
 
-/assets/*
+# Images and SVGs have stable content — safe to pin for a year.
+/assets/img/*
+  Cache-Control: public, max-age=31536000, immutable
+/assets/svg/*
   Cache-Control: public, max-age=31536000, immutable
 
 # CSS/JS use stable (unversioned) filenames, so they must revalidate instead of
