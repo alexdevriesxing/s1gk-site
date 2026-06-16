@@ -14,3 +14,7 @@
 .hero-floating-art { position: absolute; top: 45%; left: 55%; transform: translate(-50%, -50%); width: 60vw; max-width: 750px; opacity: 0.85; filter: drop-shadow(0 0 40px rgba(57,255,20,0.25)) drop-shadow(0 30px 50px rgba(0,0,0,0.9)); z-index: -1; pointer-events: none; animation: jawDropFloat 8s ease-in-out infinite alternate; }
 @keyframes jawDropFloat { 0% { transform: translate(-50%, -50%) rotate(-4deg) scale(0.95); } 100% { transform: translate(-50%, -56%) rotate(2deg) scale(1.02); } }
 @media(max-width: 1120px) { .hero-floating-art { top: 40%; left: 50%; width: 90vw; opacity: 0.4; } }
+
+/* FORCE HERO AUTO HEIGHT TO REMOVE GAP */
+.hero, .hero-grid { min-height: auto !important; padding-top: 100px !important; padding-bottom: 60px !important; }
+.hero-floating-art { opacity: 1 !important; z-index: 5 !important; }
