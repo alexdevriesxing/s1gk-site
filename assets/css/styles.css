@@ -408,3 +408,123 @@
   transition: border-color var(--speed), box-shadow var(--speed);
 }
 .variant-picker select:hover, .variant-picker select:focus { border-color: var(--green); box-shadow: 0 0 0 3px rgba(57,255,20,0.12); }
+
+/* ============================================================
+   HOMEPAGE HERO REDESIGN + GLOBAL TIGHTENING (2026-06-16)
+   The hero now uses the finished cinematic banner
+   (homepage-hero.webp). Copy + CTAs are anchored to the bottom
+   over a scrim so the baked-in S1GK lockup and diving keeper
+   stay the focal point. Section rhythm is tightened throughout.
+   ============================================================ */
+
+/* --- Hero banner ---
+   Stacked composition on every breakpoint: the finished cinematic banner
+   shows in full as the focal block, then a tight copy/CTA band sits below on
+   the dark body. This keeps the image's own S1GK lockup and the diving keeper
+   unobstructed and the copy perfectly legible. */
+.hero.hero-v3 {
+  position: relative;
+  display: block;
+  min-height: 0 !important;
+  height: auto !important;
+  overflow: hidden;
+  border-bottom: 1px solid var(--line2);
+  background: var(--bg);
+  isolation: isolate;
+}
+.hero.hero-v3 .hero-bg {
+  position: relative; inset: auto; z-index: 0;
+  height: clamp(340px, 52vh, 560px);
+}
+.hero.hero-v3 .hero-bg img {
+  width: 100%; height: 100%;
+  object-fit: cover; object-position: 50% 38%;
+  filter: contrast(1.05) saturate(1.07);
+}
+/* Fade the banner's lower edge seamlessly into the dark copy band. */
+.hero.hero-v3 .hero-bg::before {
+  content: ""; position: absolute; inset: 0; z-index: 1; pointer-events: none;
+  background: linear-gradient(180deg, rgba(2,3,2,.12) 0%, rgba(2,3,2,0) 42%, rgba(2,3,2,.55) 84%, var(--bg) 100%);
+}
+/* Kill the diagonal light-sweep over the finished banner. */
+.hero.hero-v3::after { content: none !important; }
+
+.hero-inner {
+  position: relative; z-index: 2;
+  padding: clamp(1.5rem, 3vw, 2.6rem) 0 clamp(1.6rem, 3.5vw, 2.8rem);
+}
+.hero-v3 .hero-copy { max-width: 780px; }
+.hero-v3 .hero-eyebrow {
+  display: inline-flex; align-items: center; gap: .55rem;
+  text-transform: uppercase; letter-spacing: .15em; font-weight: 900; font-size: .72rem;
+  color: #e7ffe1; border: 1px solid var(--line); background: rgba(57,255,20,.07);
+  padding: .42rem .75rem; margin-bottom: 1rem;
+}
+.hero-v3 h1 {
+  font-size: clamp(2.4rem, 5.4vw, 4.6rem);
+  line-height: .9; letter-spacing: -.045em; text-transform: uppercase;
+  font-weight: 1100; margin: 0 0 .85rem; text-wrap: balance;
+}
+.hero-v3 h1 span { display: inline; }
+.hero-v3 h1 span.line1 { color: #fff; text-shadow: none; }
+.hero-v3 h1 span:not(.line1) { color: var(--green); text-shadow: 0 0 30px rgba(57,255,20,.38); }
+.hero-v3 .lead {
+  font-size: clamp(1rem, 1.4vw, 1.12rem); line-height: 1.62;
+  color: #cfe0cc; max-width: 660px;
+}
+.hero-v3 .hero-cta { margin: 1.5rem 0 1.1rem; }
+.hero-v3 .trust-row { color: #cfe0cc; }
+
+/* --- Tighten global vertical rhythm --- */
+.section { padding: 64px 0; }
+.club { padding-top: 34px; }
+.section-head { margin-bottom: 1.5rem; }
+.site-footer { padding: 46px 0 24px; }
+.ticker span { padding: .78rem 0; }
+.product-card { min-height: 388px; }
+.product-card figure { height: 184px; }
+.level-card { min-height: 360px; }
+.lab-visual { min-height: 440px; }
+
+@media (max-width: 760px) {
+  /* On phones show the full banner (uncropped) so the baked S1GK lockup reads,
+     then the copy below. */
+  .hero.hero-v3 .hero-bg { height: auto; aspect-ratio: 16 / 10; }
+  .hero.hero-v3 .hero-bg img { object-position: 50% center; }
+  .hero-inner { padding: 1.3rem 0 .4rem; }
+  .hero-v3 h1 { font-size: clamp(2.1rem, 9vw, 3rem); }
+  .hero-v3 .hero-cta { margin: 1.2rem 0 1rem; }
+  .hero-v3 .hero-cta .btn { width: 100%; margin: .3rem 0; }
+  .section { padding: 46px 0; }
+}
+
+/* --- Inner page headers (gloves, matchwear, guides, products, …) ---
+   Tightened and polished to match the homepage hero's typographic scale and
+   dark-green brand treatment. Overrides the base .page-hero rule. */
+.page-hero {
+  position: relative;
+  padding: clamp(46px, 7vw, 74px) 0 clamp(32px, 4vw, 46px);
+  border-bottom: 1px solid var(--line2);
+  background:
+    radial-gradient(120% 140% at 88% 12%, rgba(57,255,20,.16), transparent 46%),
+    linear-gradient(100deg, var(--bg) 8%, rgba(2,3,2,.82) 46%, rgba(2,3,2,.5) 100%),
+    url('/assets/img/brand/s1gk-product-range-board.webp') center/cover;
+  isolation: isolate;
+}
+.page-hero > .wrap { position: relative; z-index: 1; }
+.page-hero .breadcrumb { margin-bottom: .8rem; }
+.page-hero .kicker { display: inline-flex; }
+.page-hero h1 {
+  font-size: clamp(2.4rem, 6vw, 4.4rem);
+  line-height: .92; letter-spacing: -.045em; text-transform: uppercase;
+  margin: .5rem 0 .7rem; text-wrap: balance;
+}
+.page-hero .lead { max-width: 640px; color: #cfe0cc; line-height: 1.6; }
+
+@media (max-width: 760px) {
+  .page-hero h1 { font-size: clamp(2.1rem, 9vw, 3rem); }
+}
+
+/* Product detail header: trim the gap so it reads tight under the nav. */
+.product-hero { gap: 2rem; }
+.section .product-hero { margin-top: .5rem; }
