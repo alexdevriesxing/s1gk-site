@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "gloves": "Eldivenler",
+    "matchwear": "Maç Kıyafetleri",
+    "training": "Antrenman",
+    "accessories": "Aksesuarlar",
+    "junior": "Genç",
+    "guides": "Rehberler",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "shopAll": "Tümünü Gör"
+  },
+  "a11y": {
+    "search": "Sitede ara",
+    "account": "Hesap",
+    "cart": "Sepet",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "closeSearch": "Aramayı kapat",
+    "language": "Dil seçin"
+  },
+  "topbar": {
+    "tagline": "Kaleciler için yapıldı. Kazanmak için doğdu."
+  },
+  "hero": {
+    "titleA": "Farklı Yaratıldı",
+    "titleB": "Kaleciler İçin",
+    "lead": "Premium kaleci ekipmanları: maç eldivenleri, antrenman eldivenleri, genç eldivenleri, maç kıyafetleri, dolgulu antrenman kiti ve aksesuarlar — her sahada hızlı görünmek ve elit hissetmek için tasarlandı.",
+    "shopGloves": "Eldivenleri İncele",
+    "findGlove": "Eldiveni Bul",
+    "trustedBy": "Kaleciler tarafından güveniliyor",
+    "products": "ürün",
+    "guides": "kaleci rehberi"
+  },
+  "console": {
+    "title": "Kaleci Modu",
+    "live": "canlı",
+    "academy": "Akademi",
+    "match": "Maç",
+    "elite": "Elit",
+    "protection": "derece koruma",
+    "compromises": "taviz",
+    "potential": "potansiyel"
+  },
+  "modes": {
+    "academy": {
+      "title": "Buradan başla. Seviye atla.",
+      "text": "Genç kaleciler için genç eldivenleri, antrenman konforu ve ebeveyn dostu paketler.",
+      "cta": "Akademiyi Keşfet"
+    },
+    "match": {
+      "title": "Maç günü. Sahiplen.",
+      "text": "Haftalık futbol için maç eldivenleri, uzun kollu formalar ve takıma hazır kit.",
+      "cta": "Maçı Keşfet"
+    },
+    "elite": {
+      "title": "Bahane yok. Sadece sonuç.",
+      "text": "Yüksek yoğunluklu seanslar için dolgulu koruma, kompresyon katmanları ve premium aksesuarlar.",
+      "cta": "Eliti Keşfet"
+    }
+  },
+  "featured": {
+    "kicker": "Öne çıkan ekipman",
+    "titleA": "Şununla başla",
+    "titleB": "kurtarış ustaları",
+    "copy": "Kavrama, koruma ve güven için yapılmış eldivenler. Kiti maç kıyafetleri, antrenman ekipmanı ve aksesuarlarla tamamla.",
+    "prev": "Önceki ürünler",
+    "next": "Sonraki ürünler"
+  },
+  "values": {
+    "grip": "Kavrama",
+    "gripText": "İlk dokunuştan son kurtarışa kadar maksimum kontrol.",
+    "protect": "Koruma",
+    "protectText": "Dalışlar, temas, suni çim ve tekrar için yapıldı.",
+    "perform": "Performans",
+    "performText": "Hızlı, keskin, hafif ve maç günü kendinden emin.",
+    "focus": "Odak",
+    "focusText": "Odaklan, dış etkenleri kapat ve kaleni sahiplen."
+  },
+  "lab": {
+    "kicker": "İnteraktif eldiven laboratuvarı",
+    "title": "Kurtarış stilini seç.",
+    "copy": "Seviyene uygun doğru kalıbı bul. Kaleci profilini seç, seni mükemmel ekipmanla eşleştirelim.",
+    "level": "Kaleci seviyesi",
+    "levelBeginner": "Başlangıç / akademi",
+    "levelMatch": "Haftalık maç oyuncusu",
+    "levelElite": "Elit antrenman",
+    "age": "Yaş grubu",
+    "ageJunior": "Genç",
+    "ageAdult": "Genç / yetişkin",
+    "use": "Ana kullanım",
+    "useTraining": "Antrenman seansları",
+    "useMatch": "Maç günü",
+    "useTurf": "Suni çim / yüksek tekrar",
+    "submit": "Eldivenimi Göster"
+  },
+  "essentials": {
+    "kicker": "Temel ürünler",
+    "titleA": "Her kurtarış",
+    "titleB": "için yapıldı",
+    "copy": "Dolgulu koruma, alt katmanlar, çoraplar, çantalar ve temel aksesuarlarla kaleci ekipmanını tamamla."
+  },
+  "kit": {
+    "kicker": "Mikro-ticaret",
+    "title": "Kaleci kitini oluştur.",
+    "copy": "Mükemmel kaleci kitini oluştur. Oyununa uygun bir paket yaratmak için eldivenleri, maç kıyafetlerini ve aksesuarları karıştır ve eşleştir.",
+    "starter": "Başlangıç",
+    "match": "Maç günü",
+    "elite": "Elit",
+    "estimated": "Tahmini paket",
+    "build": "Bu kiti oluştur"
+  },
+  "levels": {
+    "kicker": "Seviyeye göre alışveriş",
+    "title": "Akademi. Maç. Elit.",
+    "copy": "Üç net seviye, ürün yelpazesini ebeveynler, takımlar ve ciddi kaleciler için anlaşılır kılar.",
+    "academyTitle": "Buradan başla. Seviye atla.",
+    "academyText": "Genç dostu eldivenler ve antrenman ekipmanı.",
+    "matchTitle": "Maç günü. Sahiplen.",
+    "matchText": "Maç eldivenleri, formalar ve takıma hazır kit.",
+    "eliteTitle": "Bahane yok. Sadece sonuç.",
+    "eliteText": "Teknik katmanlar, dolgular ve premium aksesuarlar."
+  },
+  "club": {
+    "kicker": "Topluluk motoru",
+    "titleA": "Katıl",
+    "titleB": "Kaleciler Kulübü",
+    "copy": "Ekipmandan fazlası. Farklı antrenman yapan, daha sert dalan ve maç kaotikleştiğinde herkesin güvendiği oyuncu olmak isteyen genç kaleciler için bir hareket.",
+    "perk1": "Özel çıkışlar",
+    "perk2": "Antrenman ipuçları",
+    "perk3": "Üye indirimleri",
+    "perk4": "Erken erişim",
+    "join": "Ücretsiz katıl"
+  },
+  "search": {
+    "label": "S1GK'da ara",
+    "placeholder": "Maç eldivenleri, genç, dolgulu pantolon dene…",
+    "noResults": "Henüz kaleci ekipmanı bulunamadı. Eldivenler, genç, pantolon veya maç deneyin."
+  },
+  "common": {
+    "from": "Başlangıç",
+    "addToKit": "Kite ekle",
+    "shopGloves": "Eldivenleri incele",
+    "findMyGlove": "Eldivenimi bul",
+    "readyCta": "Kaleni sahiplenmeye hazır mısın?",
+    "size": "Beden",
+    "selectSize": "Beden seç",
+    "ownTheBox": "Kaleni sahiplen."
+  },
+  "cart": {
+    "emptyTitle": "Sepetin boş",
+    "emptySub": "Eldivenler, maç kıyafetleri ve antrenman aksesuarları ekleyerek mükemmel kaleci ekipmanını oluştur.",
+    "browseAll": "Tüm Ekipmanlara Gözat",
+    "yourSelection": "Seçimin",
+    "summary": "Özet",
+    "subtotal": "Ara toplam",
+    "shipping": "Kargo",
+    "total": "Toplam",
+    "checkout": "Ödemeye Geç",
+    "freeDelivery": "{amount} üzeri siparişlerde ücretsiz teslimat. 30 gün içinde kolay iade.",
+    "remove": "Ürünü kaldır",
+    "added": "kite eklendi",
+    "loading": "Seçimin yükleniyor..."
+  },
+  "checkout": {
+    "title": "Güvenli Ödeme",
+    "intro": "Teslimat bilgilerini aşağıya gir. Bu demo sipariş için kart gerekmez.",
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "email": "E-posta Adresi",
+    "address": "Teslimat Adresi",
+    "city": "Şehir",
+    "zip": "Posta Kodu",
+    "complete": "Siparişi Tamamla",
+    "placedTitle": "Sipariş Verildi!",
+    "placedText": "Siparişin için teşekkürler. Kaleci ekipmanın garanti altında.",
+    "close": "Kapat",
+    "redirecting": "Güvenli ödemeye yönlendiriliyor…"
+  },
+  "footer": {
+    "stayLockedIn": "Bağlantıda kal",
+    "shop": "Mağaza",
+    "learn": "Öğren",
+    "brand": "Marka",
+    "newsletterCopy": "Çıkışlar, kaleci ipuçları ve ürün güncellemeleri için kaydol.",
+    "emailPlaceholder": "E-postanı gir",
+    "signUp": "Kaydol",
+    "tagline": "Farklı yaratıldı. Kaleciler için yapıldı. Kazanmak için.",
+    "rights": "© 2026 S1GK. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "sitemap": "Site Haritası"
+  },
+  "toast": {
+    "subscribed": "Abone olundu",
+    "submitted": "İstek başarıyla gönderildi",
+    "unlocked": "kilidi açıldı",
+    "loaded": "yüklendi"
+  },
+  "meta": {
+    "homeTitle": "S1GK Kaleci Eldivenleri, Maç Kıyafetleri ve Kaleci Ekipmanları | Own The Box",
+    "homeDesc": "Premium kaleci ekipmanları: maç, antrenman ve genç kaleci eldivenleri, kaleci maç kıyafetleri, dolgulu antrenman kiti ve aksesuarlar. Kaleciler için yapıldı."
+  }
+}

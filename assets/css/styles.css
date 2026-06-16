@@ -528,3 +528,25 @@
 /* Product detail header: trim the gap so it reads tight under the nav. */
 .product-hero { gap: 2rem; }
 .section .product-hero { margin-top: .5rem; }
+
+/* ============================================================
+   RTL SUPPORT (Arabic)
+   The i18n engine sets <html dir="rtl">. Arabic script is cursive,
+   so the design's letter-spacing / negative tracking breaks glyph
+   joining — reset it. Mirror a few direction-specific accents.
+   ============================================================ */
+[dir="rtl"] body { font-family: "Segoe UI", Tahoma, "Noto Naskh Arabic", "Geeza Pro", Arial, sans-serif; }
+[dir="rtl"] * { letter-spacing: normal !important; }
+/* uppercase is a no-op for Arabic; drop it so headings keep natural forms. */
+[dir="rtl"] h1, [dir="rtl"] h2, [dir="rtl"] h3,
+[dir="rtl"] .kicker, [dir="rtl"] .tag, [dir="rtl"] .btn,
+[dir="rtl"] .nav-links a, [dir="rtl"] .drawer-links a { text-transform: none; }
+/* Custom select arrow lives on the right in LTR; move it to the left for RTL. */
+[dir="rtl"] .lang-switch select {
+  padding: 0 0.8rem 0 1.7rem;
+  background-position: 13px 19px, 8px 19px;
+}
+/* Cart badge sits on the leading (right) corner in RTL. */
+[dir="rtl"] .cart-icon b { right: auto; left: -3px; }
+/* Marquee keeps a single visual direction; let it scroll naturally. */
+[dir="rtl"] .ticker-track { direction: ltr; }

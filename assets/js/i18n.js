@@ -28,7 +28,10 @@
     'fi': { label: 'Suomi', dir: 'ltr', intl: 'fi' },
     'id': { label: 'Bahasa Indonesia', dir: 'ltr', intl: 'id' },
     'zh-Hant': { label: '繁體中文', dir: 'ltr', intl: 'zh-Hant' },
-    'zh-Hans': { label: '简体中文', dir: 'ltr', intl: 'zh-Hans' }
+    'zh-Hans': { label: '简体中文', dir: 'ltr', intl: 'zh-Hans' },
+    'ja': { label: '日本語', dir: 'ltr', intl: 'ja' },
+    'tr': { label: 'Türkçe', dir: 'ltr', intl: 'tr' },
+    'ar': { label: 'العربية', dir: 'rtl', intl: 'ar' }
   };
 
   var DEFAULT_LANG = 'en';
@@ -39,7 +42,8 @@
   var OG_LOCALE = {
     en: 'en_US', nl: 'nl_NL', fr: 'fr_FR', de: 'de_DE', es: 'es_ES', it: 'it_IT',
     pt: 'pt_PT', el: 'el_GR', sv: 'sv_SE', da: 'da_DK', no: 'nb_NO', fi: 'fi_FI',
-    id: 'id_ID', 'zh-Hant': 'zh_TW', 'zh-Hans': 'zh_CN'
+    id: 'id_ID', 'zh-Hant': 'zh_TW', 'zh-Hans': 'zh_CN',
+    ja: 'ja_JP', tr: 'tr_TR', ar: 'ar_AR'
   };
 
   /* Shared chrome: translate links by their href so every page localizes without per-page markup. */
