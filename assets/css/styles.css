@@ -311,3 +311,16 @@
 .sort-select:focus {
   border-color: var(--green);
 }
+
+/* ===== MOBILE OVERRIDES FOR CLEANER SPACING ===== */
+@media(max-width:760px) {
+  .page-hero {
+    padding: 56px 0 32px !important;
+  }
+  .modal-content {
+    padding: 1.5rem !important;
+  }
+  .cart-layout {
+    gap: 1.5rem !important;
+  }
+}
