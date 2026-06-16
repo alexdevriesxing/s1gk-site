@@ -1,0 +1,32 @@
+# S1GK
+
+S1GK is a goalkeeper-first football gear brand concept with the tagline "Own The Box". The collection includes goalkeeper gloves, junior gloves, match gloves, training gloves, matchwear, training kit, padded pants, grip socks, bags and accessories.
+
+Primary audience: junior keepers, parents of young football goalkeepers, academy players, amateur match keepers, football schools and clubs.
+
+Core product categories:
+- Goalkeeper gloves
+- Junior goalkeeper gloves
+- Match goalkeeper gloves
+- Training goalkeeper gloves
+- Goalkeeper jerseys
+- Padded goalkeeper pants
+- Keeper base layers
+- Grip socks
+- Keeper bags and accessories
+
+Brand levels:
+- Academy: starter and junior gear
+- Match: game-day gear
+- Elite: premium training and protection gear
+
+Important pages:
+- /gloves/
+- /junior/
+- /guides/goalkeeper-glove-size-guide/
+- /guides/best-goalkeeper-gloves-for-kids/
+- /products/match-pro-glove/
+- /products/junior-one-glove/
+- /private-label/
+
+Note: This file is provided for general AI-readable brand context. Google Search does not require special AI text files to understand a site; crawlable HTML, useful content and structured data are the priority.

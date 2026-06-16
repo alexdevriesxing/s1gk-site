@@ -1,0 +1,11 @@
+{
+  "name": "s1gk-final-cloudflare-static-site",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Static Gen Alpha goalkeeper gear website for Cloudflare Pages.",
+  "scripts": {
+    "serve": "python3 -m http.server 8787",
+    "zip": "zip -r ../s1gk_final_jawdropping_cloudflare_site.zip ."
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,275 @@
+[
+  {
+    "id": "junior-one-glove",
+    "name": "Junior One Glove",
+    "category": "Gloves",
+    "tier": "Academy",
+    "price": "49.00",
+    "slug": "/products/junior-one-glove/",
+    "image": "/assets/img/products/junior-glove.webp",
+    "description": "A junior goalkeeper glove designed for young keepers who are learning technique, confidence and first-save habits.",
+    "keywords": [
+      "junior goalkeeper gloves",
+      "kids goalkeeper gloves",
+      "youth keeper gloves"
+    ],
+    "features": [
+      "Soft training palm",
+      "easy wrist closure",
+      "junior fit",
+      "starter grip"
+    ]
+  },
+  {
+    "id": "match-pro-glove",
+    "name": "Match Pro Glove",
+    "category": "Gloves",
+    "tier": "Match",
+    "price": "119.00",
+    "slug": "/products/match-pro-glove/",
+    "image": "/assets/img/products/match-pro-glove.webp",
+    "description": "The S1GK hero match glove for serious keepers who want premium grip, control and confidence on game day.",
+    "keywords": [
+      "match goalkeeper gloves",
+      "pro goalkeeper gloves",
+      "football keeper gloves"
+    ],
+    "features": [
+      "Premium match palm",
+      "negative/hybrid cut concept",
+      "secure wrist strap",
+      "game-day control"
+    ]
+  },
+  {
+    "id": "training-grip-glove",
+    "name": "Training Grip Glove",
+    "category": "Gloves",
+    "tier": "Match",
+    "price": "54.00",
+    "slug": "/products/training-grip-glove/",
+    "image": "/assets/img/products/training-glove.webp",
+    "description": "A durable daily training glove built for repetitions, academy drills and weekly keeper sessions.",
+    "keywords": [
+      "training goalkeeper gloves",
+      "durable goalkeeper gloves",
+      "academy keeper gloves"
+    ],
+    "features": [
+      "Abrasion-ready palm",
+      "daily training fit",
+      "reinforced backhand",
+      "budget-smart performance"
+    ]
+  },
+  {
+    "id": "match-jersey-ls",
+    "name": "Match Jersey LS",
+    "category": "Matchwear",
+    "tier": "Match",
+    "price": "54.00",
+    "slug": "/products/match-jersey-ls/",
+    "image": "/assets/img/products/match-jersey-ls.webp",
+    "description": "A long-sleeve goalkeeper match jersey with sharp S1GK graphics and keeper-specific movement comfort.",
+    "keywords": [
+      "goalkeeper jersey",
+      "long sleeve goalkeeper jersey",
+      "keeper matchwear"
+    ],
+    "features": [
+      "Long-sleeve coverage",
+      "athletic cut",
+      "keeper graphics",
+      "match-ready comfort"
+    ]
+  },
+  {
+    "id": "training-jersey-ss",
+    "name": "Training Jersey SS",
+    "category": "Training",
+    "tier": "Academy",
+    "price": "34.00",
+    "slug": "/products/training-jersey-ss/",
+    "image": "/assets/img/products/training-jersey-ss.webp",
+    "description": "A lightweight short-sleeve training jersey for keeper sessions, warm days and academy practice.",
+    "keywords": [
+      "goalkeeper training jersey",
+      "short sleeve keeper jersey",
+      "football training top"
+    ],
+    "features": [
+      "Lightweight feel",
+      "fast-dry concept",
+      "team-order ready",
+      "everyday training fit"
+    ]
+  },
+  {
+    "id": "padded-pants",
+    "name": "Padded Pants",
+    "category": "Training",
+    "tier": "Elite",
+    "price": "89.00",
+    "slug": "/products/padded-pants/",
+    "image": "/assets/img/products/padded-pants.webp",
+    "description": "Padded goalkeeper pants for dives, turf sessions, shot-stopping drills and confident training.",
+    "keywords": [
+      "goalkeeper padded pants",
+      "keeper training pants",
+      "football goalkeeper trousers"
+    ],
+    "features": [
+      "Padded zones",
+      "tapered fit",
+      "turf training concept",
+      "protective movement"
+    ]
+  },
+  {
+    "id": "match-shorts",
+    "name": "Match Shorts",
+    "category": "Matchwear",
+    "tier": "Match",
+    "price": "34.00",
+    "slug": "/products/match-shorts/",
+    "image": "/assets/img/products/match-shorts.webp",
+    "description": "Technical goalkeeper match shorts with clean S1GK styling and flexible movement.",
+    "keywords": [
+      "goalkeeper shorts",
+      "football keeper shorts",
+      "match shorts"
+    ],
+    "features": [
+      "Light match fit",
+      "stretch waistband",
+      "team-order ready",
+      "clean styling"
+    ]
+  },
+  {
+    "id": "compression-top",
+    "name": "Compression Top",
+    "category": "Training",
+    "tier": "Elite",
+    "price": "49.00",
+    "slug": "/products/compression-top/",
+    "image": "/assets/img/products/compression-top.webp",
+    "description": "A keeper base layer top for training comfort, layering and high-intensity sessions.",
+    "keywords": [
+      "goalkeeper compression top",
+      "keeper base layer",
+      "football base layer"
+    ],
+    "features": [
+      "Base layer fit",
+      "warm-up ready",
+      "sleek seams",
+      "training comfort"
+    ]
+  },
+  {
+    "id": "compression-leggings",
+    "name": "Compression Leggings",
+    "category": "Training",
+    "tier": "Elite",
+    "price": "49.00",
+    "slug": "/products/compression-leggings/",
+    "image": "/assets/img/products/compression-leggings.webp",
+    "description": "Compression leggings for keepers who train hard in cooler weather or on abrasive surfaces.",
+    "keywords": [
+      "goalkeeper leggings",
+      "keeper compression tights",
+      "football base layer leggings"
+    ],
+    "features": [
+      "Leg support concept",
+      "under-shorts layer",
+      "training comfort",
+      "sleek fit"
+    ]
+  },
+  {
+    "id": "grip-socks",
+    "name": "Grip Socks",
+    "category": "Accessories",
+    "tier": "Academy",
+    "price": "19.00",
+    "slug": "/products/grip-socks/",
+    "image": "/assets/img/products/grip-socks.webp",
+    "description": "Grip socks for keeper footwork, set position and explosive first steps.",
+    "keywords": [
+      "goalkeeper grip socks",
+      "football grip socks",
+      "keeper socks"
+    ],
+    "features": [
+      "Grip sole concept",
+      "stable footwork",
+      "crew height",
+      "training and match"
+    ]
+  },
+  {
+    "id": "glove-bag",
+    "name": "Glove Bag",
+    "category": "Accessories",
+    "tier": "Academy",
+    "price": "34.00",
+    "slug": "/products/glove-bag/",
+    "image": "/assets/img/products/glove-bag.webp",
+    "description": "A dedicated glove bag to store, protect and carry S1GK gloves between sessions.",
+    "keywords": [
+      "goalkeeper glove bag",
+      "keeper accessories",
+      "football glove storage"
+    ],
+    "features": [
+      "Glove storage",
+      "travel friendly",
+      "easy-care lining",
+      "brand carry"
+    ]
+  },
+  {
+    "id": "backpack",
+    "name": "Keeper Backpack",
+    "category": "Accessories",
+    "tier": "Elite",
+    "price": "69.00",
+    "slug": "/products/backpack/",
+    "image": "/assets/img/products/backpack.webp",
+    "description": "A goalkeeper backpack for gloves, boots, bottles, tape and training essentials.",
+    "keywords": [
+      "goalkeeper backpack",
+      "football backpack",
+      "keeper kit bag"
+    ],
+    "features": [
+      "Kit storage",
+      "boot-friendly layout",
+      "team travel",
+      "daily carry"
+    ]
+  },
+  {
+    "id": "water-bottle",
+    "name": "Water Bottle",
+    "category": "Accessories",
+    "tier": "Academy",
+    "price": "19.00",
+    "slug": "/products/water-bottle/",
+    "image": "/assets/img/products/water-bottle.webp",
+    "description": "A branded S1GK water bottle for training, matchday and academy sessions.",
+    "keywords": [
+      "football water bottle",
+      "goalkeeper accessories",
+      "sports bottle"
+    ],
+    "features": [
+      "Training hydration",
+      "sideline ready",
+      "easy grip",
+      "S1GK branding"
+    ]
+  }
+]

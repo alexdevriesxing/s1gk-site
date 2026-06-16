@@ -1,0 +1,16 @@
+{
+  "name": "S1GK Own The Box",
+  "short_name": "S1GK",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030403",
+  "theme_color": "#39ff14",
+  "description": "Goalkeeper gloves, matchwear and training gear.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

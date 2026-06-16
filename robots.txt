@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.s1gk.com/sitemap.xml

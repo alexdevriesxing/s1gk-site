@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 210" role="img" aria-labelledby="title desc">
+<title id="title">S1GK logo</title><desc id="desc">S1GK Own The Box goalkeeper gear logo.</desc>
+<defs>
+  <linearGradient id="chrome" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset=".38" stop-color="#d8d8d8"/><stop offset=".72" stop-color="#fff"/><stop offset="1" stop-color="#a6a6a6"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g fill="none" stroke="#39ff14" stroke-width="3" opacity=".42"><path d="M28 168h145M548 168h145"/></g>
+<path fill="url(#chrome)" d="M42 36h185l-22 42H95l-13 26h97c42 0 59 21 43 56-14 31-38 47-84 47H8l21-42h127l12-24H73c-43 0-59-23-43-57z"/>
+<path filter="url(#glow)" fill="#39ff14" d="M260 30h57l-56 156h-59z" transform="skewX(-13)"/>
+<circle cx="319" cy="20" r="17" fill="#39ff14" filter="url(#glow)"/>
+<path fill="#39ff14" d="M300 44c27 10 39 38 24 68-9 18-23 29-44 33l-9-29c14-3 22-10 27-20 8-17 1-30-20-35z" opacity=".95"/>
+<path fill="url(#chrome)" d="M354 36h180l-22 42H407l-12 26h108l-19 39H376l-10 22h121l-22 42H291l76-171z"/>
+<path fill="url(#chrome)" d="M555 36h62l-38 75 97-75h69l-103 78 41 93h-67l-25-62-39 29-15 33h-58z"/>
+<text x="160" y="190" font-family="Arial Black, Impact, sans-serif" font-size="28" letter-spacing="16" fill="#39ff14">OWN THE BOX</text>
+</svg>
