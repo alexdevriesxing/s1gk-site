@@ -1,47 +1,81 @@
 const $=(q,ctx=document)=>ctx.querySelector(q);const $$=(q,ctx=document)=>[...ctx.querySelectorAll(q)];
-const state={products:[],kit:(()=>{try{return JSON.parse(localStorage.getItem('s1gk-kit')||'[]')}catch(e){return[]}})(),motion:!matchMedia('(prefers-reduced-motion: reduce)').matches};
+const state={products:[],kit:(()=>{try{return JSON.parse(localStorage.getItem('s1gk-kit')||'[]')}catch(e){return[]}})(),motion: (typeof window !== 'undefined' && typeof window.matchMedia !== 'undefined') ? !window.matchMedia('(prefers-reduced-motion: reduce)').matches : true};
 const modeCopy={academy:{title:'Start here. Level up.',text:'Junior gloves, easy closures and training-ready essentials for young keepers.',href:'/levels/academy/'},match:{title:'Game day. Own it.',text:'Match gloves, long-sleeve jerseys and team-ready kit for weekly football.',href:'/levels/match/'},elite:{title:'No excuses. Just results.',text:'Padded protection, compression layers and premium accessories for high-intensity sessions.',href:'/levels/elite/'}};
 const kitPresets={starter:{title:'Starter Keeper Kit',items:['Junior One Glove','Training Jersey SS','Grip Socks','Glove Bag'],total:'€136'},match:{title:'Matchday Keeper Kit',items:['Match Pro Glove','Match Jersey LS','Match Shorts','Grip Socks'],total:'€226'},elite:{title:'Elite Training Kit',items:['Training Grip Glove','Padded Pants','Compression Top','Compression Leggings','Keeper Backpack'],total:'€310'}};
 
 function init(){
-  hidePreloader();
-  loadProducts();
-  wireScroll();
-  wireReveal();
-  wireDrawers();
-  wireSearchUI();
-  wirePointer();
-  wireTilt();
-  wireButtons();
-  wireModes();
-  wireFinder();
-  wireKit();
-  wireCarousel();
-  wireCounters();
-  wireParticles();
-  wireParallax();
-  wireImageGlow();
-  updateCartBadge();
-  highlightActiveNav();
-  setupModalAndForms();
-  renderCartPage();
-  setupFilterAndSort();
+  const run = (fn) => {
+    try {
+      fn();
+    } catch(e) {
+      console.warn('Init warning: ' + fn.name, e);
+    }
+  };
+  run(hidePreloader);
+  run(loadProducts);
+  run(wireScroll);
+  run(wireReveal);
+  run(wireDrawers);
+  run(wireSearchUI);
+  run(wirePointer);
+  run(wireTilt);
+  run(wireButtons);
+  run(wireModes);
+  run(wireFinder);
+  run(wireKit);
+  run(wireCarousel);
+  run(runCounters);
+  run(wireParticles);
+  run(wireParallax);
+  run(wireImageGlow);
+  run(updateCartBadge);
+  run(highlightActiveNav);
+  run(setupModalAndForms);
+  run(renderCartPage);
+  run(setupFilterAndSort);
+}
+
+function runCounters() {
+  if (typeof wireCounters === 'function') wireCounters();
 }
 
 function hidePreloader(){window.addEventListener('load',()=>setTimeout(()=>$('#preloader')?.classList.add('done'),350));setTimeout(()=>$('#preloader')?.classList.add('done'),1600)}
 function loadProducts(){
-  fetch('/data/products.json')
-    .then(r=>r.json())
-    .then(data=>{
-      state.products=data;
-      wireSearch(data);
-      renderCartPage();
-      renderProductsGrid();
-    })
-    .catch(()=>{})
+  try {
+    fetch('/data/products.json')
+      .then(r=>r.json())
+      .then(data=>{
+        state.products=data;
+        wireSearch(data);
+        renderCartPage();
+        renderProductsGrid();
+      })
+      .catch(()=>{})
+  } catch(e){}
 }
 function wireScroll(){const progress=$('.progress'),sticky=$('.sticky-cta'),header=$('.site-header');const onScroll=()=>{const h=document.documentElement;const p=h.scrollTop/(h.scrollHeight-h.clientHeight);if(progress)progress.style.width=(p*100)+'%'; if(sticky)sticky.classList.toggle('show',h.scrollTop>680); if(header)header.classList.toggle('scrolled',h.scrollTop>40)};document.addEventListener('scroll',onScroll,{passive:true});onScroll()}
-function wireReveal(){if(!('IntersectionObserver'in window)){return $$('.reveal').forEach(el=>el.classList.add('in'))}const io=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12,rootMargin:'0px 0px -60px 0px'});$$('.reveal').forEach((el,i)=>{el.style.transitionDelay=Math.min(i%6*60,300)+'ms';io.observe(el)})}
+function wireReveal(){
+  if(!('IntersectionObserver'in window)){
+    return $$('.reveal').forEach(el=>el.classList.add('in'));
+  }
+  const io=new IntersectionObserver(entries=>entries.forEach(e=>{
+    if(e.isIntersecting){
+      e.target.classList.add('in');
+      io.unobserve(e.target);
+    }
+  }),{threshold:0.01,rootMargin:'0px 0px -20px 0px'});
+  
+  $$('.reveal').forEach((el,i)=>{
+    el.style.transitionDelay=Math.min(i%6*60,300)+'ms';
+    // If the element is already in the viewport on load, reveal it immediately
+    const rect = el.getBoundingClientRect();
+    if(rect.top < window.innerHeight && rect.bottom > 0){
+      el.classList.add('in');
+    } else {
+      io.observe(el);
+    }
+  });
+}
 function lockBody(v){document.body.classList.toggle('no-scroll',v)}
 function wireDrawers(){const drawer=$('.mobile-drawer'),search=$('.search-drawer');$('#menuBtn')?.addEventListener('click',()=>{drawer?.classList.add('active');drawer?.setAttribute('aria-hidden','false');lockBody(true)});$('#searchBtn')?.addEventListener('click',()=>{search?.classList.add('active');search?.setAttribute('aria-hidden','false');lockBody(true);setTimeout(()=>$('#siteSearch')?.focus(),120)});$$('[data-close]').forEach(b=>b.addEventListener('click',()=>{$$('.mobile-drawer,.search-drawer').forEach(d=>{d.classList.remove('active');d.setAttribute('aria-hidden','true')});lockBody(false)}));document.addEventListener('keydown',e=>{if(e.key==='Escape'){$$('[data-close]')[0]?.click()}})}
 function wireSearchUI(){ $('#openFinder')?.addEventListener('click',()=>document.querySelector('.lab-section')?.scrollIntoView({behavior:'smooth'})); }
